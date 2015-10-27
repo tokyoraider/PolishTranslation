@@ -381,160 +381,160 @@ UI_20150317_000380	{@st49}Ogniowa Katapulta{/}
 UI_20150317_000381	{@st44}Zasady sterowania{/}
 UI_20150317_000382	{@st44}Ogień{/}
 UI_20150317_000383	Minigra
-UI_20150317_000384	{s18}{ol}{gr gradation1}Hide and seek minigame{/}
-UI_20150317_000385	{s16}Would you like to join the mini-game?
-UI_20150317_000386	{s16}Participants : (0/5)
-UI_20150317_000387	{s16}Participants : (%s /%s)
-UI_20150317_000388	{s16}The game starts after 1 second.
-UI_20150317_000389	{s16}The game starts after %s seconds.
-UI_20150317_000390	{@st59}Zoom in{/}
-UI_20150317_000391	{@st59}Zoom out{/}
-UI_20150317_000392	{@st59}Map (M){/}
-UI_20150317_000393	{@st42b} Area Map
-UI_20150317_000394	{@st44}Item Synthesizer{/}
-UI_20150317_000395	{s16}{#FFcc66}{ol}Please select the item you want to create{/}{/}
-UI_20150317_000396	{s16}{#FFcc66}{ol}Drag the ingredients to the slots
-UI_20150317_000397	{@st42}Create{/}
-UI_20150317_000398	{@st42} Cancel {/}
-UI_20150317_000399	Information of %s
-UI_20150317_000400	Kepa or ...
+UI_20150317_000384	{s18}{ol}{gr gradation1}Minigra w chowanego{/}
+UI_20150317_000385	{s16}Czy chcesz dołączyć do minigry?
+UI_20150317_000386	{s16}Uczestnicy : (0/5)
+UI_20150317_000387	{s16}Uczestnicy : (%s /%s)
+UI_20150317_000388	{s16}Gra rozpocznie się za 1 sekundę.
+UI_20150317_000389	{s16}Gra rozpocznie się za %s sekund.
+UI_20150317_000390	{@st59}Przybliż{/}
+UI_20150317_000391	{@st59}Oddal{/}
+UI_20150317_000392	{@st59}Mapa (M){/}
+UI_20150317_000393	{@st42b} Mapa obszaru
+UI_20150317_000394	{@st44}Synteza Przedmiotów{/}
+UI_20150317_000395	{s16}{#FFcc66}{ol}Wybierz przedmioty do syntezy{/}{/}
+UI_20150317_000396	{s16}{#FFcc66}{ol}Przeciągnij składniki na sloty
+UI_20150317_000397	{@st42}Syntezuj{/}
+UI_20150317_000398	{@st42} Anuluj {/}
+UI_20150317_000399	informacje o %s
+UI_20150317_000400	Kepa lub ...
 UI_20150317_000401	{@st41}{Details}
 UI_20150317_000402	{s20}{#050505}Monster Description Monster Description Monster Description Monster Description
 UI_20150317_000403	{@st41} Kill {/}
 UI_20150317_000404	{@st41} Overkill {/}
-UI_20150317_000405	{@st41} Normal Kill {/}
-UI_20150317_000406	{@st41} Area {/}
-UI_20150317_000407	{@st41} Item {/}
+UI_20150317_000405	{@st41} Normalny Kill {/}
+UI_20150317_000406	{@st41} Obszar {/}
+UI_20150317_000407	{@st41} Przedmiot {/}
 UI_20150317_000408	{@st41} Osiągnięcie {/}
-UI_20150317_000409	Object
+UI_20150317_000409	Obiekt
 UI_20150317_000410	{@st43}Necronomicon{/}
-UI_20150317_000411	{@st59}Close Necronomicon UI{/}
-UI_20150317_000412	{memo X}{@st59}I am too lazy to think.{/}
-UI_20150317_000413	Summoned Creature : {#ffcc33}%s{/}
+UI_20150317_000411	{@st59}Zamknij okno Necronomiconu{/}
+UI_20150317_000412	{memo X}{@st59}Jestem zbyt leniwy by myśleć.{/}
+UI_20150317_000413	Przyzwany potwór : {#ffcc33}%s{/}
 UI_20150317_000414	{memo X}Undead Harpy
 UI_20150317_000415	{memo X}Skill : %s
 UI_20150317_000416	{memo X}Skill 1, Skill 2
-UI_20150317_000417	{memo X}Fragments needed : %s
-UI_20150317_000418	{memo X}Beast 60 / Insect 20/ Mutant 10
-UI_20150317_000419	Number of Fragments
-UI_20150317_000420	{memo X}Parts 1
-UI_20150317_000421	{memo X}Parts 2
-UI_20150317_000422	{memo X}Parts 3
-UI_20150317_000423	Congratulations! Your level has increased.
-UI_20150317_000424	Item Alarm
-UI_20150317_000425	{@st64}Details{/}
-UI_20150317_000426	How to Play
-UI_20150317_000427	${@st42b}          Move once with each of the keys{/}
-UI_20150317_000428	${@st42b}         Use a basic attack{/}
-UI_20150317_000429	${@st42b}                Jump up{/}
-UI_20150317_000430	{@st42b}     Use two keys together to move diagonally{/}
-UI_20150317_000431	Fog Map Tool
-UI_20150317_000432	Tool for killing monsters
-UI_20150317_000433	Tool for making minimap
-UI_20150317_000434	Dialogue tool
-UI_20150317_000435	{@st43}GM Settings{/}
-UI_20150317_000436	{@st59}Close Party Information{/}
-UI_20150317_000437	{@st59b}Party Information{nl}{@st59s} - Click on the "Create Party" button at the bottom to create a party. {nl} - Right-click on other players to send a party invite. {nl} - Changes can be made to the party through the Settings tab. {nl} - Set up specific conditions to search for party members from the Public Party list. {/}
-UI_20150317_000438	{@st43}Party Information{/}
-UI_20150317_000439	{@st41b}Members{/}
-UI_20150317_000440	{@st41b}Party Event {/}
-UI_20150317_000441	{@st41b}Settings{/}
-UI_20150317_000442	{memo X}{@st41}Members{/}
-UI_20150317_000443	{memo X}{@st41}Conditions for joining party
-UI_20150317_000444	{memo X}{@st41b}Public
-UI_20150317_000445	{memo X}{@st41b}Private
-UI_20150317_000446	{memo X}Required Level ~
-UI_20150317_000447	{memo X}{@st41}Item Priority
-UI_20150317_000448	{memo X}{@st41b}Individual Loot
-UI_20150317_000449	{memo X}{@st41b}Round Robin
-UI_20150317_000450	{memo X}{@st41b}Random
-UI_20150317_000451	{memo X}{@st41}EXP Priority
-UI_20150317_000452	{memo X}{@st41b}Individual EXP
-UI_20150317_000453	{memo X}{@st41b}Equal EXP
-UI_20150317_000454	{memo X}{@st41b}By Level
-UI_20150317_000455	{memo X}{@st41}Quest Sharing
-UI_20150317_000456	{memo X}{@st41b}Enabled
-UI_20150317_000457	{memo X}{@st41b}Disabled
-UI_20150317_000458	{@st41b}Create Party
-UI_20150317_000459	{@st43}Public Party List {/}
-UI_20150317_000460	${@st59b}Public Party List{nl}{@st59s} - Search for parties you want to join. {nl} - Ticking "Use Search" uses your search conditions to help find desirable parties. {/}
-UI_20150317_000461	{@st59}Close Party List{/}
-UI_20150317_000462	Use Search
-UI_20150317_000463	Quest Sharing
-UI_20150317_000464	EXP Priority
-UI_20150317_000465	Item Priority
-UI_20150317_000466	{@st43}Invite
-UI_20150317_000467	{@st41b}Invite{/}
-UI_20150317_000468	{memo X}{s18}{ol}{gr gradation1}Logout PC rules{/}
-UI_20150317_000469	{ol}Conditions for applying rules
-UI_20150317_000470	{ol}Action for applying rules
-UI_20150317_000471	Enter a name for the rule
-UI_20150317_000472	{Gr gradation1}Registration{/}
-UI_20150317_000473	Register Rules
-UI_20150317_000474	{Gr gradation1}Cancel{/}
-UI_20150317_000475	Cancel Action
-UI_20150317_000476	{@st43}Companion Info
-UI_20150317_000477	{@st59b} Companion Info{nl}{@st59s} - You can set your Companion to Active or in Rest Mode using the button below. {nl} - The attributes and equipped items of your Companion can be customized. {/}
-UI_20150317_000478	{@st59}Close Companion Info{/}
-UI_20150317_000479	{memo X}{@st41b}Name : {@sti9}%s{/}
-UI_20150317_000480	{memo X}{@sti9}%s{@st41b}Closeness : {@sti9}%s {@st41b}Level{/}
+UI_20150317_000417	{memo X}Wymagane fragmenty : %s
+UI_20150317_000418	{memo X}Bestia 60 / Insekt 20 / Mutant 10
+UI_20150317_000419	Liczba fragmentów
+UI_20150317_000420	{memo X}Części 1
+UI_20150317_000421	{memo X}Części 2
+UI_20150317_000422	{memo X}Części 3
+UI_20150317_000423	Gratulacje! Twój level wzrósł.
+UI_20150317_000424	Alarm Przedmiotu
+UI_20150317_000425	{@st64}Szczegóły{/}
+UI_20150317_000426	Jak grać
+UI_20150317_000427	${@st42b}          Porusz się raz każdym z klawiszy{/}
+UI_20150317_000428	${@st42b}         Użyj podstawowego ataku{/}
+UI_20150317_000429	${@st42b}                Podskocz{/}
+UI_20150317_000430	{@st42b}     Użyj dwóch klawiszy na raz aby poruszać się ukośnie{/}
+UI_20150317_000431	Narzędzie mgły mapy
+UI_20150317_000432	Narzędzie do zabijania potworów
+UI_20150317_000433	Narzędzie do tworzenia minimap
+UI_20150317_000434	Narzędzie dialogowe
+UI_20150317_000435	{@st43}Ustawienia GM{/}
+UI_20150317_000436	{@st59}Zamknij okno Informacji o Drużynie{/}
+UI_20150317_000437	{@st59b}Informacje o Drużynie{nl}{@st59s} - Kliknij guzik Załóż Drużynę na dole aby stworzyć nową drużynę. {nl} - Kliknij prawym myszki innych graczy aby zaprosić ich do drużyny. {nl} - Możesz zmienić ustawienia drużyny w zakładce Ustawienia. {nl} - Ustaw konkretne warunki aby wyszukać drużynę na Liście Publicznych Drużyn. {/}
+UI_20150317_000438	{@st43}Informacje o Drużynie{/}
+UI_20150317_000439	{@st41b}Członkowie{/}
+UI_20150317_000440	{@st41b}Event Drużynowy {/}
+UI_20150317_000441	{@st41b}Ustawienia{/}
+UI_20150317_000442	{memo X}{@st41}Członków{/}
+UI_20150317_000443	{memo X}{@st41}Warunek dołączenia
+UI_20150317_000444	{memo X}{@st41b}Publiczna
+UI_20150317_000445	{memo X}{@st41b}Prywatna
+UI_20150317_000446	{memo X}Wymagany Level ~
+UI_20150317_000447	{memo X}{@st41}Priorytet Przedmiotów
+UI_20150317_000448	{memo X}{@st41b}Indywidualnie
+UI_20150317_000449	{memo X}{@st41b}Każdy po kolei
+UI_20150317_000450	{memo X}{@st41b}Losowo
+UI_20150317_000451	{memo X}{@st41}Priorytet EXPa
+UI_20150317_000452	{memo X}{@st41b}Indywidualnie
+UI_20150317_000453	{memo X}{@st41b}Każdy po równo
+UI_20150317_000454	{memo X}{@st41b}Proporcjonalnie do Levela
+UI_20150317_000455	{memo X}{@st41}Współdzielenie Questów
+UI_20150317_000456	{memo X}{@st41b}Włączone
+UI_20150317_000457	{memo X}{@st41b}Wyłączone
+UI_20150317_000458	{@st41b}Załóż Drużynę
+UI_20150317_000459	{@st43}Lista Publicznych Drużyn {/}
+UI_20150317_000460	${@st59b}Lista Publicznych Drużyn{nl}{@st59s} - Wyszukaj drużyny, do których chcesz dołączyć. {nl} - Zaznaczenie pola Użyj Warunków sprawi, że podczas wyszukiwania drużyny zostaną wzięte pod uwagę ustawione warunki. {/}
+UI_20150317_000461	{@st59}Zamknij Listę Publicznych Drużyn{/}
+UI_20150317_000462	Użyj Warunków
+UI_20150317_000463	Współdzielenie Questów
+UI_20150317_000464	Priorytet EXPa
+UI_20150317_000465	Priorytet Przedmiotów
+UI_20150317_000466	{@st43}Zaproś
+UI_20150317_000467	{@st41b}Zaproś{/}
+UI_20150317_000468	{memo X}{s18}{ol}{gr gradation1}Zasady wylogowania PC{/}
+UI_20150317_000469	{ol}Warunki zastosowania zasad (?)
+UI_20150317_000470	{ol}Akcja zastosowania zasad (?)
+UI_20150317_000471	Wpisz nazwę zasady
+UI_20150317_000472	{Gr gradation1}Rejestracja{/}
+UI_20150317_000473	Zasady Rejestracji
+UI_20150317_000474	{Gr gradation1}Anuluj{/}
+UI_20150317_000475	Anuluj akcję
+UI_20150317_000476	{@st43}Informacje o Towarzyszu
+UI_20150317_000477	{@st59b} Informacje o Towarzyszu{nl}{@st59s} - Możesz ustawić swojego Towarzysza jako Aktywnego lub Odpoczywającego używając guzika poniżej. {nl} - Możesz zmieniać artybuty oraz założone przedmioty twojego Towarzysza. {/}
+UI_20150317_000478	{@st59}Zamknij Informacje o Towarzyszu{/}
+UI_20150317_000479	{memo X}{@st41b}Imię : {@sti9}%s{/}
+UI_20150317_000480	{memo X}{@sti9}%s{@st41b}Bliskość : {@sti9}%s {@st41b}Level{/}
 UI_20150317_000481	{memo X}{@st41b}EXP{/}
-UI_20150317_000482	{memo X}{@st41b}Stamina{/}
-UI_20150317_000483	{memo X}{@st41b}Closeness{/}
-UI_20150317_000484	{memo X}{@st41b}Attributes and Information
-UI_20150317_000485	{@st43}Companion{/}
-UI_20150317_000486	{@st59b}Companion{nl}{@st59s} - Click on an item in the list to view more information. {/}
-UI_20150317_000487	{@st59}Close Companion{/}
-UI_20150317_000488	{@st59}Close Help window{/}
-UI_20150317_000489	{@st59}Help{nl} - View detailed information and tips. {nl} - View other topics from the Help List{/}
-UI_20150317_000490	{@st43}Help{/}
-UI_20150317_000491	Help Topics
-UI_20150317_000492	{ol}{#AAAA00}{s16}Elapsed Time : %s
-UI_20150317_000493	{@st43}Poison Pot{/}
-UI_20150317_000494	{@st59}Close Poison Pot UI{/}
-UI_20150317_000495	{@st59}Need to write{/}
-UI_20150317_000496	{memo X}The amount of poison: %s
-UI_20150317_000497	{memo X}Items that can be used to Craft poison
-UI_20150317_000498	{memo X}Select All
-UI_20150317_000499	Click again to unselect all
-UI_20150317_000500	{memo X}Crafting
-UI_20150317_000501	{memo X}shuffle shuffle mix and shuffle
-UI_20150317_000502	{@st43}Category{/}
-UI_20150317_000503	{@st43}Me{/}
-UI_20150317_000504	{@st43}Object{/}
+UI_20150317_000482	{memo X}{@st41b}Wytrzymałość{/}
+UI_20150317_000483	{memo X}{@st41b}Bliskość{/}
+UI_20150317_000484	{memo X}{@st41b}Atrybuty i Informacje
+UI_20150317_000485	{@st43}Towarzysz{/}
+UI_20150317_000486	{@st59b}Towarzysz{nl}{@st59s} - Kliknij pozycję na liście aby uzyskać więcej informacji. {/}
+UI_20150317_000487	{@st59}Zamknij okno Towarzysza{/}
+UI_20150317_000488	{@st59}Zamknij okno Pomocy{/}
+UI_20150317_000489	{@st59}Pomoc{nl} - Zobacz szczegółowe informacje oraz wskazówki. {nl} - Zobacz inne tematy z listy pomocy. {/}
+UI_20150317_000490	{@st43}Pomoc{/}
+UI_20150317_000491	Tematy Pomocy
+UI_20150317_000492	{ol}{#AAAA00}{s16}Upłynął czas : %s
+UI_20150317_000493	{@st43}Słoik Trucizny{/}
+UI_20150317_000494	{@st59}Zamknij okno Słoika Trucizny{/}
+UI_20150317_000495	{@st59}Musisz coś wpisać{/}
+UI_20150317_000496	{memo X}Ilość trucizny: %s
+UI_20150317_000497	{memo X}Przedmioty nadające się na produkcję truciznę
+UI_20150317_000498	{memo X}Wybierz wszystkie
+UI_20150317_000499	Kliknij ponownie aby odznaczyć
+UI_20150317_000500	{memo X}Produkcja
+UI_20150317_000501	{memo X}*trzęs trzęs miksu i trzęs*
+UI_20150317_000502	{@st43}Kategoria{/}
+UI_20150317_000503	{@st43}Ja{/}
+UI_20150317_000504	{@st43}Obiekt{/}
 UI_20150317_000505	{@st43}Level{/}
-UI_20150317_000506	{@st43}Funds{/}
-UI_20150317_000507	{@st43}Rate{/}
-UI_20150317_000508	{@st43}PvP Win rate{/}
-UI_20150317_000509	{@st59}Close{/}
-UI_20150317_000510	{@sti5}Total Purchase Amount : %s{/}
-UI_20150317_000511	{@sti5}Total Amount : %s{/}
-UI_20150317_000512	{@st41b} Purchase
-UI_20150317_000513	{memo X}{@st43}Gained materials for a craftable item!
+UI_20150317_000506	{@st43}Środki{/}
+UI_20150317_000507	{@st43}Wskaźnik{/}
+UI_20150317_000508	{@st43}Wskaźnik zwycięstw PvP{/}
+UI_20150317_000509	{@st59}Zamknij{/}
+UI_20150317_000510	{@sti5}Suma zakupionych : %s{/}
+UI_20150317_000511	{@sti5}Suma : %s{/}
+UI_20150317_000512	{@st41b} Kup
+UI_20150317_000513	{memo X}{@st43}ZDobyto przedmioty do produkcji przedmiotu!
 UI_20150317_000514	{@st43}Magnum Opus{/}
-UI_20150317_000515	{@st41}Delete All
-UI_20150317_000516	{memo X}{@st42}Pension object {@stx1}(%s required){/}
-UI_20150317_000517	{@st41}Combine
-UI_20150317_000518	{@st43}Quest{/}
-UI_20150317_000519	${@st59b}Quests{nl}{@st59s} - When you are on a new quest, it will be added to the quest tracker. {nl} - A main quest is displayed in yellow color, while a subquest is displayed in blue. {nl} - The arrow on the character's foot leads to the location of your quest. {nl} - If you completed a quest, a 'Return' icon is displayed on the quest tracker. {nl}    (Teleports you to the Quest NPC using the Backspace key or a mouse-click) {nl} - Add or remove quests in the quest tracker by ticking or unticking the box in front of the quest name. {/}
-UI_20150317_000520	{@st41b}In Progress{/}
-UI_20150317_000521	{@st41b}Abandon{/}
-UI_20150317_000522	${@st43}{s22}Quest Information{/}
-UI_20150317_000523	Mission Complete
-UI_20150317_000524	{@st41}Complete{/}
-UI_20150317_000525	Mission Progress Info
-UI_20150317_000526	{s18}{ol}Quest Information
-UI_20150317_000527	{s16}Time Left
+UI_20150317_000515	{@st41}Usuń wszystko
+UI_20150317_000516	{memo X}{@st42}Obiekt Pension (?) {@stx1}(wymagane %s){/}
+UI_20150317_000517	{@st41}Połącz
+UI_20150317_000518	{@st43}Questy{/}
+UI_20150317_000519	${@st59b}Questy{nl}{@st59s} - Kiedy przyjmiesz nowy Quest, zostanie on dodany do okna śledzenia Questów. {nl} - Główne Questy wyświetlane są na żółto, natomiast Questy poboczne na niebiesko. {nl} - Strzałka przy nogach postaci poprowadzi cię do lokacji Questa. {nl} - Jak ukończysz Quest, w oknie śledzenia pojawi się ikonka Powrotu. {nl}    (Możesz teleportować się prosto do NPC, od którego otrzymano Quest wciskając klawisz Backspace albo klikając środkowym myszki) {nl} - Dodaj lub usuń Questy w oknie śledzenia zaznaczając lub odznaczając ptaszek przed jego nazwą. {/}
+UI_20150317_000520	{@st41b}Trwa{/}
+UI_20150317_000521	{@st41b}Porzuć{/}
+UI_20150317_000522	${@st43}{s22}Informacje o Queście{/}
+UI_20150317_000523	Misja ukończona
+UI_20150317_000524	{@st41}Ukończony{/}
+UI_20150317_000525	Informacje o postępie misji
+UI_20150317_000526	{s18}{ol}Informacje o Queście
+UI_20150317_000527	{s16}Pozostały czas
 UI_20150317_000528	Użyj przedmiotu questowego
 UI_20150317_000529	Podpowiedź do Questa
 UI_20150317_000530	{@st41}Potwierdź{/}
 UI_20150317_000531	{@st43}{s22}Quest ukończony{/}
-UI_20150317_000532	{@st41b}Complete{/}
+UI_20150317_000532	{@st41b}Ukończony{/}
 UI_20150317_000533	{@st41}Akceptuj{/}
 UI_20150317_000534	{@st41}Odmów{/}
 UI_20150317_000535	{@st44}Wstecz{/}
-UI_20150317_000536	Which quest would you like to go back to?
-UI_20150317_000537	{memo X}{@st41b}Quest class name{/}
+UI_20150317_000536	Do którego questa chcesz powrócić?
+UI_20150317_000537	{memo X}{@st41b}Nazwa Klasy Questa{/}
 UI_20150317_000538	{@st59}Powiększ slot {/}
 UI_20150317_000539	{@st59}Zmniejsz slot{/}
 UI_20150317_000540	{memo X}{@st59}Przyzwij Towarzysza.{/}
@@ -755,26 +755,26 @@ UI_20150317_000754	{memo X}{@st41b}Głośność (%s){/}
 UI_20150317_000755	{@st43}{b}Wybierz język{/}
 UI_20150317_000756	{@st59}Zamknij Ustawienia{/}
 UI_20150317_000757	{memo X}Lowest-mode {@st41b} {/}
-UI_20150317_000758	{@st41b}View{/}
-UI_20150317_000759	{@st59}Credits{/}
+UI_20150317_000758	{@st41b}Zobacz{/}
+UI_20150317_000759	{@st59}Kredyty{/}
 UI_20150317_000760	Target buff window
-UI_20150317_000761	{@st46}IMC's picture
-UI_20150317_000762	{@st46}%s's picture
-UI_20150317_000763	{@st46}Like
-UI_20150317_000764	{@st46}Report
+UI_20150317_000761	{@st46}Obrazek IMC
+UI_20150317_000762	{@st46}Obrazek %s
+UI_20150317_000763	{@st46}Lubię
+UI_20150317_000764	{@st46}Zgłoś
 UI_20150317_000765	{@st46}Use preservatives
-UI_20150317_000766	{@st46}Remove Picture
+UI_20150317_000766	{@st46}Usuń obrazek
 UI_20150317_000767	Snow Hallucination
 UI_20150317_000768	Bouquet
-UI_20150317_000769	{@st41} Gifts
-UI_20150317_000770	Please enter a quantity
-UI_20150317_000771	{@st53b}%s Wins %s Loss
-UI_20150317_000772	{@st42}Today's Schedule
-UI_20150317_000773	{@st53}To Start :
-UI_20150317_000774	{@st53b}Gifts received : ×%s
-UI_20150317_000775	{@st43b}Send gift to %s{/}
-UI_20150317_000776	{@st55_a}Next game
-UI_20150317_000777	{@st53}- Click on the name to spectate{nl}- Right-click to send a gift
+UI_20150317_000769	{@st41} Prezenty
+UI_20150317_000770	Podaj ilość
+UI_20150317_000771	{@st53b}%s wygrywa %s przegrywa (?)
+UI_20150317_000772	{@st42}Dzisiejszy rozkład
+UI_20150317_000773	{@st53}Do rozpoczęcia :
+UI_20150317_000774	{@st53b}Otrzymane prezenty : ×%s
+UI_20150317_000775	{@st43b}Wyślij prezent dla %s{/}
+UI_20150317_000776	{@st55_a}Kolejna gra
+UI_20150317_000777	{@st53}- Kliknij na imię aby obserwować{nl}- Kliknij prawym myszki aby podarować prezent
 UI_20150317_000778	Moja postać jako kamera
 UI_20150317_000779	{@st55_a}Gratulacje!
 UI_20150317_000780	{@st42}Zmień kamerę
@@ -818,9 +818,9 @@ UI_20150317_000817	{@st42b}Grupowa regeneracja{/}
 UI_20150317_000818	{@st42b}Ustaw lokację na mapie{/}
 UI_20150317_000819	{@st42b}Mapa Skilli{/}
 UI_20150317_000820	{@st42b}Lista eventów{/}
-UI_20150317_000821	{@st42b}Check coordinates{/}
-UI_20150317_000822	{@st42b} Check XAC, texture path{/}
-UI_20150317_000823	{@st42b}Performance ON/OFF{/}
+UI_20150317_000821	{@st42b}Sprawdź współrzędne{/}
+UI_20150317_000822	{@st42b} Sprawdź XAC, ścieżkę tekstur{/}
+UI_20150317_000823	{@st42b}Wydajność ON/OFF{/}
 UI_20150317_000824	Lista dialogowa
 UI_20150317_000825	Szukaj
 UI_20150317_000826	{@st41}Podgląd{/}
@@ -828,50 +828,50 @@ UI_20150317_000827	{@st41}Off{/}
 UI_20150317_000828	{@st41}Usuń{/}
 UI_20150317_000829	{@st41}Zapisz wszystko{/}
 UI_20150317_000830	{@st41}Zachowaj zdjęcie{/}
-UI_20150317_000831	{#FFFFFF}{ds}Select Event
-UI_20150317_000832	{#FFFFFF}{ds}Edit Event
-UI_20150317_000833	{ol}List
-UI_20150317_000834	The name of the group to save
-UI_20150317_000835	{@st42}Create New{/}
-UI_20150317_000836	{@st41}Group regen{/}
-UI_20150317_000837	{@st59}Enter monster name to search{/}
-UI_20150317_000838	{@st59}Enter group name to save{/}
-UI_20150317_000839	{@st41}New group{/}
-UI_20150317_000840	Filtering
-UI_20150317_000841	{@st59}Enter filter{/}
-UI_20150317_000842	{ol}Property Value
-UI_20150317_000843	Class List
-UI_20150317_000844	Apply to XML
-UI_20150317_000845	{#FFFFFF}{ds}Log
-UI_20150317_000846	{#FFFFFF}{ds}View all properties
-UI_20150317_000847	Enter search word
-UI_20150317_000848	All attribute values
-UI_20150317_000849	{ol}Name
-UI_20150317_000850	{ol}Value
+UI_20150317_000831	{#FFFFFF}{ds}Wybierz Event
+UI_20150317_000832	{#FFFFFF}{ds}Edytuj Event
+UI_20150317_000833	{ol}Lista
+UI_20150317_000834	Nazwa grupy do zapisania
+UI_20150317_000835	{@st42}Stwórz nową{/}
+UI_20150317_000836	{@st41}Grupowa regeneracja{/}
+UI_20150317_000837	{@st59}Wpisz nazwę potwora do wyszukania{/}
+UI_20150317_000838	{@st59}Wpisz nazwę grupy do zapisania{/}
+UI_20150317_000839	{@st41}Nowa grupa{/}
+UI_20150317_000840	Filtrowanie
+UI_20150317_000841	{@st59}Wpisz filtr{/}
+UI_20150317_000842	{ol}Wartość
+UI_20150317_000843	Lista Klas
+UI_20150317_000844	Zastosuj to XMLa
+UI_20150317_000845	{#FFFFFF}{ds}Logi
+UI_20150317_000846	{#FFFFFF}{ds}Zobacz wszystkie wartości
+UI_20150317_000847	Wpisz słowo do wyszukania
+UI_20150317_000848	Wszystkie wartości
+UI_20150317_000849	{ol}Nazwa
+UI_20150317_000850	{ol}Wartość
 UI_20150317_000851	$Rogue
-UI_20150317_000852	{ol}Revision
+UI_20150317_000852	{ol}Wersja
 UI_20150317_000853	${ol}Rogue
-UI_20150317_000854	Class list
-UI_20150317_000855	XML Conversion
-UI_20150317_000856	{ol}Class name
-UI_20150317_000857	{ol}Property Name
-UI_20150317_000858	{ol}Changed value
-UI_20150317_000859	{ol}Apply
-UI_20150317_000860	Open Folder
-UI_20150317_000861	Check All
-UI_20150317_000862	History
-UI_20150317_000863	Rollback Value
-UI_20150317_000864	{ol}Select item
-UI_20150317_000865	Enter the name you want to search
-UI_20150317_000866	{@st42}Confirm{/}
-UI_20150317_000867	{@st41}Create UI{/}
-UI_20150317_000868	{ol}Frame
-UI_20150317_000869	{@st41}Frame{/}
-UI_20150317_000870	{@st41}Button{/}
-UI_20150317_000871	{@st41}Text{/}
-UI_20150317_000872	{@st42b}Normal{img btn_close}
-UI_20150317_000873	{@st42b}Auction{img btn_close}
-UI_20150317_000874	{@st41}Set map location{/}
+UI_20150317_000854	Lista Klas
+UI_20150317_000855	Konwersja do XML
+UI_20150317_000856	{ol}Nazwa Klasy
+UI_20150317_000857	{ol}Nazwa wartości
+UI_20150317_000858	{ol}Zmieniona wartość
+UI_20150317_000859	{ol}Zastosuj
+UI_20150317_000860	Otwórz folder
+UI_20150317_000861	Zaznacz wszystko
+UI_20150317_000862	Historia
+UI_20150317_000863	Przywróć wartość
+UI_20150317_000864	{ol}Wybierz przedmiot
+UI_20150317_000865	Wpisz nazwę do wyszukania
+UI_20150317_000866	{@st42}Potwierdź{/}
+UI_20150317_000867	{@st41}Stwórz UI{/}
+UI_20150317_000868	{ol}Ramka
+UI_20150317_000869	{@st41}Ramka{/}
+UI_20150317_000870	{@st41}Guzik{/}
+UI_20150317_000871	{@st41}Tekst{/}
+UI_20150317_000872	{@st42b}Normalny{img btn_close}
+UI_20150317_000873	{@st42b}Aukcja{img btn_close}
+UI_20150317_000874	{@st41}Ustaw lokację na mapie{/}
 UI_20150317_000875	{@st41}Rename{/}
 UI_20150317_000876	{@st59}Enter the words you want to filter{/}
 UI_20150317_000877	{@st41}Create{/}
