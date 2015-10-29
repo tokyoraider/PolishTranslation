@@ -1,18 +1,18 @@
-ETC_20150317_000001	$Kępa
-ETC_20150317_000002	$Kępy są bardzo słabe. Atakując je bezmyślnie ryzykujesz popłakanie się z litości.
-ETC_20150317_000003	$Duża Kępa
-ETC_20150317_000004	$Istnieją ludzie, którzy próbowali zjeść Dużą Kępę. Nie pozwól im na to.
-ETC_20150317_000005	$Czerwona Kępa
-ETC_20150317_000006	$Wbrew obiegowej opinii, it's the Red Kepas that are most similar to the original Kepa.
-ETC_20150317_000007	$Trująca Kępa
+ETC_20150317_000001	Kępa
+ETC_20150317_000002	Kępy są bardzo słabe. Atakując je bezmyślnie{nl}ryzykujesz popłakanie się z litości.
+ETC_20150317_000003	Duża Kępa
+ETC_20150317_000004	Istnieją ludzie, którzy próbowali zjeść{nl}Dużą Kępę. Nie pozwól im na to.
+ETC_20150317_000005	Czerwona Kępa
+ETC_20150317_000006	Wbrew obiegowej opinii, to właśnie Czerwona{nl}Kępa przypomina najbardziej oryginalną Kępę.
+ETC_20150317_000007	Trująca Kępa
 ETC_20150317_000008	Potwór
 ETC_20150317_000009	$Hamming
 ETC_20150317_000010	$Mimo twardej skóry, Hamming jest słabiutkim stworem.
 ETC_20150317_000011	$Chinency
 ETC_20150317_000012	$Niegdyś będący łodygą, Chinency wyewoluowały do swojej obecnej formy.
 ETC_20150317_000013	$Mutant Chinency
-ETC_20150317_000014	$Jukopus
-ETC_20150317_000015	$Jest bardzo niewiele danych na temat wnętrzności Jukopusa.
+ETC_20150317_000014	Jukopus
+ETC_20150317_000015	Jest bardzo niewiele danych na temat{nl}wnętrzności Jukopusa.
 ETC_20150317_000016	$Niebieski Jukopus
 ETC_20150317_000017	$Szary Jukopus
 ETC_20150317_000018	$W zależności od wieku, potwór ten wykształca u siebie różne techniki walki.
@@ -23,8 +23,8 @@ ETC_20150317_000022	$Wiele rzeczy powinieneś wiedzieć o tym potworze, ale najw
 ETC_20150317_000023	$Zielony Pokuborn
 ETC_20150317_000024	$Nawet po mutacji, ich mięso jest wciąż jadalne.
 ETC_20150317_000025	$Niebieski Pokubu
-ETC_20150317_000026	$Banshee
-ETC_20150317_000027	$Dusze zesłanych do podziemi pojawiły się ponownie jako demony.
+ETC_20150317_000026	Banshee
+ETC_20150317_000027	Dusze zesłanych do podziemi pojawiły się{nl}ponownie jako demony.
 ETC_20150317_000028	$Czerwony Banshee
 ETC_20150317_000029	$Evil Spirit
 ETC_20150317_000030	$Dusza, która nie otrzymała wsparcia Bogini. Narodziła się pod kontrolą demona.
@@ -1569,7 +1569,7 @@ ETC_20150317_001568	Your strength is insufficient
 ETC_20150317_001569	Starting map not available.
 ETC_20150317_001570	Request Failed
 ETC_20150317_001571	This character is currently a party leader and cannot be deleted.
-ETC_20150317_001572	Create Character
+ETC_20150317_001572	Stwórz postać
 ETC_20150317_001573	You need to learn the required attributes to use this weapon.
 ETC_20150317_001574	Item Purchased
 ETC_20150317_001575	Failed to purchase item! It has already been sold out.
@@ -1616,7 +1616,7 @@ ETC_20150317_001615	The other player is not logged in
 ETC_20150317_001616	The number of purchasable items is limited
 ETC_20150317_001617	24 hours has not elapsed yet since changing your name
 ETC_20150317_001618	Can not be greater than {Auto_1} bytes
-ETC_20150317_001619	Character Name
+ETC_20150317_001619	Imię postaci
 ETC_20150317_001620	You do not have enough materials.
 ETC_20150317_001621	{memo X}{S18}{ol}{#ffffcc}Connecting to the server...
 ETC_20150317_001622	This item cannot be discarded.
@@ -1737,22 +1737,22 @@ ETC_20150317_001736	This item does not have enough sockets.
 ETC_20150317_001737	You have insufficient funds.
 ETC_20150317_001738	Level 1 or higher
 ETC_20150317_001739	any class
-ETC_20150317_001740	$Swordsman 
-ETC_20150317_001741	$Archer 
-ETC_20150317_001742	$Cleric 
-ETC_20150317_001743	$Wizard 
+ETC_20150317_001740	Swordsman 
+ETC_20150317_001741	Archer 
+ETC_20150317_001742	Cleric 
+ETC_20150317_001743	Wizard 
 ETC_20150317_001744	Not possible on this item.
 ETC_20150317_001745	This item is not equipped with a gem.
 ETC_20150317_001746	Please select a socket.
 ETC_20150317_001747	Show All
-ETC_20150317_001748	Consumable
-ETC_20150317_001749	Book
-ETC_20150317_001750	Money
-ETC_20150317_001751	Sub-weapon
-ETC_20150317_001752	Rod
-ETC_20150317_001753	Coat
-ETC_20150317_001754	Hat
-ETC_20150317_001755	Two-handed Spear
+ETC_20150317_001748	Jedzenie
+ETC_20150317_001749	Książka
+ETC_20150317_001750	Pieniądze
+ETC_20150317_001751	Podbroń
+ETC_20150317_001752	Rózga
+ETC_20150317_001753	Płaszcz
+ETC_20150317_001754	Kapelusz
+ETC_20150317_001755	Dzida dwuręczna
 ETC_20150317_001756	$Place an item.
 ETC_20150317_001757	Gems
 ETC_20150317_001758	Socket
@@ -1784,8 +1784,8 @@ ETC_20150317_001783	Defense Rate
 ETC_20150317_001784	Evasion Rate
 ETC_20150317_001785	Fire Attack Rate
 ETC_20150317_001786	Skill Ability
-ETC_20150317_001787	Weight: {All} / {Max}
-ETC_20150317_001788	Weight ({Rate}%)
+ETC_20150317_001787	Waga: {All} / {Max}
+ETC_20150317_001788	Waga ({Rate}%)
 ETC_20150317_001789	Unsocketable
 ETC_20150317_001790	Tournament Champion
 ETC_20150317_001791	Tournament Second Winner
@@ -1804,8 +1804,8 @@ ETC_20150317_001803	You have successfully adopted a Companion.
 ETC_20150317_001804	You can't include spaces in the name.
 ETC_20150317_001805	Together
 ETC_20150317_001806	Please dismount your Companion to feed it.
-ETC_20150317_001807	Physical Attack
-ETC_20150317_001808	Physical Defense
+ETC_20150317_001807	Atak Fizyczny
+ETC_20150317_001808	Obrona Fizyczna
 ETC_20150317_001809	Increased defense when mounted
 ETC_20150317_001810	Increased evasion when mounted
 ETC_20150317_001811	Receive bonus HP when mounted
@@ -1848,7 +1848,7 @@ ETC_20150317_001847	{Ul} item! {/}
 ETC_20150317_001848	Hunting Count
 ETC_20150317_001849	Emerged Area
 ETC_20150317_001850	Times
-ETC_20150317_001851	Damage
+ETC_20150317_001851	Obrażenia
 ETC_20150317_001852	{Ul}Maximum Attack! {/}
 ETC_20150317_001853	{Ul}Maximum Damage! {/}
 ETC_20150317_001854	 Lv
@@ -2440,8 +2440,8 @@ ETC_20150317_002439	{memo X}Already waiting for the soul of the bishop Aurelius.
 ETC_20150317_002440	Checking
 ETC_20150317_002441	You found the item underground
 ETC_20150317_002442	Nothing was found
-ETC_20150317_002443	Type
-ETC_20150317_002444	Attribute
+ETC_20150317_002443	Typ
+ETC_20150317_002444	Atrybut
 ETC_20150317_002445	$x{Count} obtained
 ETC_20150317_002446	{memo X}Found the reference related with Naktis
 ETC_20150317_002447	{memo X}Failed to find the reference related with Naktis
@@ -2722,7 +2722,7 @@ ETC_20150317_002721	Stamina
 ETC_20150317_002722	Attack
 ETC_20150317_002723	Attacking Speed
 ETC_20150317_002724	Critical Rate
-ETC_20150317_002725	Durability
+ETC_20150317_002725	Wytrzymałość
 ETC_20150317_002726	{memo X}Splash
 ETC_20150317_002727	Accuracy
 ETC_20150317_002728	Critical Resistance
@@ -2733,8 +2733,8 @@ ETC_20150317_002732	Skill Attack
 ETC_20150317_002733	Magic Resistance
 ETC_20150317_002734	Dugout Attack
 ETC_20150317_002735	Rim Attack
-ETC_20150317_002736	Magic Attack
-ETC_20150317_002737	Magic Defense
+ETC_20150317_002736	Atak Magiczny
+ETC_20150317_002737	Obrona Magiczna
 ETC_20150317_002738	Creates an additional slot when equipped
 ETC_20150317_002739	Gender
 ETC_20150317_002740	Maximum Socket(s)
@@ -2757,20 +2757,20 @@ ETC_20150317_002756	Rear Attack Range
 ETC_20150317_002757	Use specific skill
 ETC_20150317_002758	Possible
 ETC_20150317_002759	Not Available
-ETC_20150317_002760	Critical Attack
-ETC_20150317_002761	Critical Defense
+ETC_20150317_002760	Atak Krytyczny
+ETC_20150317_002761	Obrona Krytyczna
 ETC_20150317_002762	Tradable
 ETC_20150317_002763	Untradeable
 ETC_20150317_002764	Potion recovery amount
-ETC_20150317_002765	SP Recovery
+ETC_20150317_002765	Odnowa SP
 ETC_20150317_002766	Cannot be sold
 ETC_20150317_002767	Fire Attack
 ETC_20150317_002768	Ice Attack
 ETC_20150317_002769	Poison Attack
 ETC_20150317_002770	Holy Attack
 ETC_20150317_002771	Dark Attack
-ETC_20150317_002772	Movement Speed
-ETC_20150317_002773	HP Recovery
+ETC_20150317_002772	Prędkość Poruszania
+ETC_20150317_002773	Odnowa HP
 ETC_20150317_002774	$Attack on Plant Type Targets
 ETC_20150317_002775	$Attack on Beast Type Targets
 ETC_20150317_002776	$Attack on Demon Type Targets
@@ -2837,13 +2837,13 @@ ETC_20150317_002836	Devil Type
 ETC_20150317_002837	Plant Type
 ETC_20150317_002838	Beast Type
 ETC_20150317_002839	Mutant Type
-ETC_20150317_002840	Object
+ETC_20150317_002840	Obiekt
 ETC_20150317_002841	Insect Type
-ETC_20150317_002842	Cloth
-ETC_20150317_002843	Leather
+ETC_20150317_002842	Tkanina
+ETC_20150317_002843	Skóra
 ETC_20150317_002844	Metal
-ETC_20150317_002845	Chain
-ETC_20150317_002846	Fluid
+ETC_20150317_002845	Łańcuch
+ETC_20150317_002846	Ciecz
 ETC_20150317_002847	{memo X}This mercenary already belongs to somebody else.
 ETC_20150317_002848	{memo X}The mercenary's level is higher than the PC's level.
 ETC_20150317_002849	{memo X}The mercenary has been hired.
@@ -4147,14 +4147,14 @@ ETC_20150317_004146	{memo X}Hire Mercenary
 ETC_20150317_004147	{memo X}Fire Mercenary
 ETC_20150317_004148	Close
 ETC_20150317_004149	{memo X}Do you want hire a mercenary? {nl}Consumes iCoin per minute {img medal 32 32}
-ETC_20150317_004150	Consumable
-ETC_20150317_004151	Potion
+ETC_20150317_004150	Jedzenie
+ETC_20150317_004151	Napój
 ETC_20150317_004152	Possible
 ETC_20150317_004153	{s18}{Auto_1}{Auto_2} Set Effect:
 ETC_20150317_004154	(Equipped)
 ETC_20150317_004155	(Unequipped)
-ETC_20150317_004156	Weapon
-ETC_20150317_004157	Equipment
+ETC_20150317_004156	Broń
+ETC_20150317_004157	Ekwipunek
 ETC_20150317_004158	] The [
 ETC_20150317_004159	Do you want to equip it to ]?
 ETC_20150317_004160	 Level
@@ -4338,9 +4338,9 @@ ETC_20150317_004337	's Bulletin Board
 ETC_20150317_004338	Reset Status Points
 ETC_20150317_004339	Requires iCoin.{nl}Are you sure you want to reset?
 ETC_20150317_004340	{memo X}{@st59} Increase in Physical Attack and Critical Attack{/}
-ETC_20150317_004341	{@st59} Increases HP, HP Recovery, Critical Resistance, Maximum Carry Weight{/}
+ETC_20150317_004341	{@st59} Zwiększa HP, Odnowę HP, Odporność Krytyczną, Maksymalną Wagę{/}
 ETC_20150317_004342	{memo X}{@st59} Increase in Magic Damage and Block Penetration{/}
-ETC_20150317_004343	{@st59} Increases Accuracy, Evasion and Critical Rate {/}
+ETC_20150317_004343	{@st59} Zwiększa Celność, Uniki i Szansę Krytyczną {/}
 ETC_20150317_004344	] Do you want to use this card?
 ETC_20150317_004345	Distance
 ETC_20150317_004346	{s16}{ol} Defense {/}{/}{/}{nl}{s18}{ol}
@@ -4731,7 +4731,7 @@ ETC_20150317_004730	{memo X}Silver
 ETC_20150317_004731	{@st41b}Confirm{/}
 ETC_20150317_004732	{@st59} consumes silver to move to the area. {/}
 ETC_20150317_004733	{@st59} to move to the\ area. {/}
-ETC_20150317_004734	$Maps
+ETC_20150317_004734	Mapy
 ETC_20150317_004735	$Maps Explored
 ETC_20150317_004736	{S20}{#00f00F} My Ranking:
 ETC_20150317_004737	Acquisition
@@ -5866,25 +5866,25 @@ ETC_20150317_005865	Create Poison Field
 ETC_20150317_005866	{memo X}Paereomyun Collection
 ETC_20150317_005867	Get rid of the Vubbe tribe!
 ETC_20150317_005868	Get rid of the Vubbe tribe for test!
-ETC_20150317_005869	Short Cut
-ETC_20150317_005870	Asymmetrical Short Cut
-ETC_20150317_005871	Long Shaggy
-ETC_20150317_005872	Regent
-ETC_20150317_005873	Volume Curl
-ETC_20150317_005874	Short Shaggy
+ETC_20150317_005869	Krótka z grzywką
+ETC_20150317_005870	Niesymetryczna fala
+ETC_20150317_005871	Długie kosmyki
+ETC_20150317_005872	Żel i do tyłu
+ETC_20150317_005873	Długie z opaską
+ETC_20150317_005874	Krótkie kudły
 ETC_20150317_005875	{memo X}Ponytail
-ETC_20150317_005876	Slicked-back Hair
-ETC_20150317_005877	Twintail
-ETC_20150317_005878	Baby Perm
-ETC_20150317_005879	Reggae Ponytail
-ETC_20150317_005880	Dandy
-ETC_20150317_005881	Double Bun
-ETC_20150317_005882	Short Ponytail
-ETC_20150317_005883	Long Layered
-ETC_20150317_005884	Noble Wave
-ETC_20150317_005885	Short Twin Tail
-ETC_20150317_005886	Shadow Perm
-ETC_20150317_005887	Tied Long Wave
+ETC_20150317_005876	Ulizane w tył
+ETC_20150317_005877	Dwa kucyki
+ETC_20150317_005878	Loczki bobasa
+ETC_20150317_005879	Ogonek z dredami
+ETC_20150317_005880	Wystryjona
+ETC_20150317_005881	Podwójny kok
+ETC_20150317_005882	Krótki ogonek
+ETC_20150317_005883	Długa z warkoczami
+ETC_20150317_005884	Szlachetne loczki
+ETC_20150317_005885	Krótkie dwa kucyki
+ETC_20150317_005886	Cieniowana trwała
+ETC_20150317_005887	Związane dwie fale
 ETC_20150317_005888	Subject
 ETC_20150317_005889	Short Description
 ETC_20150317_005890	Description1
@@ -10337,8 +10337,8 @@ ETC_20150323_010338	Briquetting
 ETC_20150323_010339	Black 
 ETC_20150323_010340	Blue 
 ETC_20150323_010341	Pink
-ETC_20150323_010342	Long Ponytail
-ETC_20150323_010343	Long Wave Twintail
+ETC_20150323_010342	Długi kucyk
+ETC_20150323_010343	Długie falowane ogonki
 ETC_20150323_010344	Dvasia Peak_1_2
 ETC_20150323_010345	Priest
 ETC_20150323_010346	Badge Signature
@@ -13516,7 +13516,7 @@ ETC_20150717_013517	You disconnected from the server{nl}due to a verification fa
 ETC_20150717_013518	Your password is incorrect.
 ETC_20150717_013519	You have reached the maximum amount of characters.{nl}To create a new character, you must first delete an existing character.
 ETC_20150717_013520	Please enter your account password.
-ETC_20150717_013521	Entering the world...
+ETC_20150717_013521	Rozpoczynanie przygody...
 ETC_20150717_013522	Do you want to learn this attribute?
 ETC_20150717_013523	Trwa łączenie z serwerem...
 ETC_20150717_013524	{gr gradation2}{s19}{ol}{b}{#ffcc00}Right-click: Sell / Buy Button{/}{/}{nl}Press and hold the Shift button + right-click{nl}to sell multiple quantities of an item.{nl}Double-click to sell all.
@@ -13610,7 +13610,7 @@ ETC_20150717_013611	{memo X}Suspicious Sculpture
 ETC_20150717_013612	This game is rated ESRB Teen.
 ETC_20150717_013613	{How} Silver obtained.
 ETC_20150717_013614	{memo X}{@st59}Increase in Max SP, SP Recovery and Block Penetration{/}
-ETC_20150717_013615	{@st59}Increases Magic Attack{/}
+ETC_20150717_013615	{@st59}Zwiększa Atak Magiczny{/}
 ETC_20150729_013616	Colimen
 ETC_20150729_013617	Mine Trap
 ETC_20150729_013618	Basic Trap
@@ -13963,7 +13963,7 @@ ETC_20150729_013964	This monster has a detonator!
 ETC_20150729_013965	{memo X}The terminal rejected accesss!
 ETC_20150729_013966	{memo X}You will lost your energy to the terminal for 1 minute!{nl}Sitrigaila could eliminate all the evil energy!
 ETC_20150729_013967	{memo X}Obtained all core required.
-ETC_20150729_013968	{@st59}Increases Max SP, SP Recovery, Block Penetration and Magic Defense{/}
+ETC_20150729_013968	{@st59}Zwiększa Maksymalne SP, Odnowę SP, Penetrację Bloku i Obronę Magiczną{/}
 ETC_20150729_013969	$You hear the sounds of working machinery!{nl}Go to District 5, and look for lubricant.
 ETC_20150729_013970	Asking about the eternal life
 ETC_20150729_013971	You've dedicated the tendon of Big Siaulamb as an offering
@@ -14012,7 +14012,7 @@ ETC_20150729_014013	The ticket will be expired when you cancel it. Do you want t
 ETC_20150729_014014	Found the Great King's Key!
 ETC_20150729_014015	{s16}{ol}{#ffcc33}[{Auto_1}] Explore Rate {nl}{Auto_2}/{Auto_3}
 ETC_20150729_014016	{cl}{s16}{ol}{#ffcc33}{Auto_1} Complete Explore Rate
-ETC_20150729_014017	{@st59} Increases Physical Attack, Critical Attack and Maximum Carry Weight{/}
+ETC_20150729_014017	{@st59} Zwięsza Atak Fizyczny, Atak Krytyczny i Maksymalną Wagę{/}
 ETC_20150729_014018	Previous Warp
 ETC_20150729_014019	Exceeded the number of Mission Instance. Try again later
 ETC_20150729_014020	[Doppelsoeldner Master]{nl} Guera

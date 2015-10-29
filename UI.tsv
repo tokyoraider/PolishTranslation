@@ -299,7 +299,7 @@ UI_20150317_000298	99 minut 99 sekund
 UI_20150317_000299	38000 punktów
 UI_20150317_000300	Enhanced Speed Potion
 UI_20150317_000301	{@st41}Confirm{/}
-UI_20150317_000302	${@st59b} Dziennik Przygody {nl}{@st59s}- Przebieg twojej gry jest zapisywany w Dzienniku Przygody. {nl} - Możesz rozwijać swój Indeks Przygody przez takie rzeczy jak: zdobywanie przedmiotów, polowanie na potwory, tworzenie przedmiotów i eksploracja mapy.{nl}    Indeks Przygody : Suma wszystkich twoich indeksów. {nl}    Rozwój : 5 punktów za każdy poziom postaci i poziom Klasy {nl}    Przedmioty : Ekwipunek : klasa X 10 punktów, Książki : 10 punktów, Inne : 1 punktów {nl}    Potwory : 10 punktów za każdego potwora (50 punktów za Bossa) {nl}    Mapy : 1 punkt za każde 10% odkrycia mapy {nl}    Questy : 1 punkt za każdy Quest {nl}    Osiągnięcia : Zależnie od osiągnięcia {nl}    Tworzenie przedmiotów : 10 punktów {nl}    Kolekcje : 5 punktów za klaser oraz 45 punktów kiedy zostanie skompletowany {nl} - Możesz otrzymać specjalne nagrody od NPC w mieście zależne od twojego Indeksu Przygody. {/}
+UI_20150317_000302	{@st59b} Dziennik Przygody {nl}{@st59s}- Przebieg twojej gry jest zapisywany w Dzienniku Przygody. {nl} - Możesz rozwijać swój Indeks Przygody przez takie rzeczy jak: zdobywanie przedmiotów, polowanie na potwory, tworzenie przedmiotów i eksploracja mapy.{nl}    Indeks Przygody : Suma wszystkich twoich indeksów. {nl}    Rozwój : 5 punktów za każdy poziom postaci i poziom Klasy {nl}    Przedmioty : Ekwipunek : klasa X 10 punktów, Książki : 10 punktów, Inne : 1 punktów {nl}    Potwory : 10 punktów za każdego potwora (50 punktów za Bossa) {nl}    Mapy : 1 punkt za każde 10% odkrycia mapy {nl}    Questy : 1 punkt za każdy Quest {nl}    Osiągnięcia : Zależnie od osiągnięcia {nl}    Tworzenie przedmiotów : 10 punktów {nl}    Kolekcje : 5 punktów za klaser oraz 45 punktów kiedy zostanie skompletowany {nl} - Możesz otrzymać specjalne nagrody od NPC w mieście zależne od twojego Indeksu Przygody. {/}
 UI_20150317_000303	{@sti7}{s22}{ds}Osiągnięcia{/}
 UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s Punktów{/}
 UI_20150317_000305	{@st42b} Średni / %s Punktów {/}
@@ -326,7 +326,7 @@ UI_20150317_000325	Moc zaklęć
 UI_20150317_000326	Obrona
 UI_20150317_000327	Odporność na magię
 UI_20150317_000328	Ataki krytyczne
-UI_20150317_000329	${@st43}Slot{/}
+UI_20150317_000329	{@st43}Slot{/}
 UI_20150317_000330	{@st59}Zamknij okno Zarządzania Slotami{/}
 UI_20150317_000331	Włóż swoje przedmioty
 UI_20150317_000332	Potencjał
@@ -424,9 +424,9 @@ UI_20150317_000423	Gratulacje! Twój level wzrósł.
 UI_20150317_000424	Alarm Przedmiotu
 UI_20150317_000425	{@st64}Szczegóły{/}
 UI_20150317_000426	Jak grać
-UI_20150317_000427	${@st42b}          Porusz się raz każdym z klawiszy{/}
-UI_20150317_000428	${@st42b}         Użyj podstawowego ataku{/}
-UI_20150317_000429	${@st42b}                Podskocz{/}
+UI_20150317_000427	{@st42b}          Porusz się raz każdym z klawiszy{/}
+UI_20150317_000428	{@st42b}         Użyj podstawowego ataku{/}
+UI_20150317_000429	{@st42b}                Podskocz{/}
 UI_20150317_000430	{@st42b}     Użyj dwóch klawiszy na raz aby poruszać się ukośnie{/}
 UI_20150317_000431	Narzędzie mgły mapy
 UI_20150317_000432	Narzędzie do zabijania potworów
@@ -457,7 +457,7 @@ UI_20150317_000456	{memo X}{@st41b}Włączone
 UI_20150317_000457	{memo X}{@st41b}Wyłączone
 UI_20150317_000458	{@st41b}Załóż Drużynę
 UI_20150317_000459	{@st43}Lista Publicznych Drużyn {/}
-UI_20150317_000460	${@st59b}Lista Publicznych Drużyn{nl}{@st59s} - Wyszukaj drużyny, do których chcesz dołączyć. {nl} - Zaznaczenie pola Użyj Warunków sprawi, że podczas wyszukiwania drużyny zostaną wzięte pod uwagę ustawione warunki. {/}
+UI_20150317_000460	{@st59b}Lista Publicznych Drużyn{nl}{@st59s} - Wyszukaj drużyny, do których chcesz dołączyć. {nl} - Zaznaczenie pola Użyj Warunków sprawi, że podczas wyszukiwania drużyny zostaną wzięte pod uwagę ustawione warunki. {/}
 UI_20150317_000461	{@st59}Zamknij Listę Publicznych Drużyn{/}
 UI_20150317_000462	Użyj Warunków
 UI_20150317_000463	Współdzielenie Questów
@@ -516,10 +516,10 @@ UI_20150317_000515	{@st41}Usuń wszystko
 UI_20150317_000516	{memo X}{@st42}Obiekt Pension (?) {@stx1}(wymagane %s){/}
 UI_20150317_000517	{@st41}Połącz
 UI_20150317_000518	{@st43}Questy{/}
-UI_20150317_000519	${@st59b}Questy{nl}{@st59s} - Kiedy przyjmiesz nowy Quest, zostanie on dodany do okna śledzenia Questów. {nl} - Główne Questy wyświetlane są na żółto, natomiast Questy poboczne na niebiesko. {nl} - Strzałka przy nogach postaci poprowadzi cię do lokacji Questa. {nl} - Jak ukończysz Quest, w oknie śledzenia pojawi się ikonka Powrotu. {nl}    (Możesz teleportować się prosto do NPC, od którego otrzymano Quest wciskając klawisz Backspace albo klikając środkowym myszki) {nl} - Dodaj lub usuń Questy w oknie śledzenia zaznaczając lub odznaczając ptaszek przed jego nazwą. {/}
+UI_20150317_000519	{@st59b}Questy{nl}{@st59s} - Kiedy przyjmiesz nowy Quest, zostanie on dodany do okna śledzenia Questów. {nl} - Główne Questy wyświetlane są na żółto, natomiast Questy poboczne na niebiesko. {nl} - Strzałka przy nogach postaci poprowadzi cię do lokacji Questa. {nl} - Jak ukończysz Quest, w oknie śledzenia pojawi się ikonka Powrotu. {nl}    (Możesz teleportować się prosto do NPC, od którego otrzymano Quest wciskając klawisz Backspace albo klikając środkowym myszki) {nl} - Dodaj lub usuń Questy w oknie śledzenia zaznaczając lub odznaczając ptaszek przed jego nazwą. {/}
 UI_20150317_000520	{@st41b}Trwa{/}
 UI_20150317_000521	{@st41b}Porzuć{/}
-UI_20150317_000522	${@st43}{s22}Informacje o Queście{/}
+UI_20150317_000522	{@st43}{s22}Informacje o Queście{/}
 UI_20150317_000523	Misja ukończona
 UI_20150317_000524	{@st41}Ukończony{/}
 UI_20150317_000525	Informacje o postępie misji
@@ -644,9 +644,9 @@ UI_20150317_000643	Koszta tworzenia
 UI_20150317_000644	Ilość tworzenia
 UI_20150317_000645	Zużyto około %s sekund
 UI_20150317_000646	{@st41}Stwórz
-UI_20150317_000647	{memo X}${@st43}Skille i Atrybuty{/}
-UI_20150317_000648	{memo X}${@st59}Zamknij Klasy i Skille{/}
-UI_20150317_000649	${@st59b}Klasy{nl}{@st59s}- Możesz nauczyć się nowych skilli rozwijając Krąg swojej Klasy. {nl} - Możesz wybrać spośród 3 dostępnych Klas do rozwoju pomiędzy twoim 1 i 2 poziomem rozwoju. {nl} - Możesz rozwijać swoją obecną Klasę maksymalnie 3 razy. {nl} - Po rozwoju na wyższą Klasę, nie możesz się cofnąć do poprzedniej. {nl} - Musisz zużyć wszystkie wolne punkty Skilli aby móc się rozwinąć. {nl} - Możesz wybrać tę samą Klasę.{nl}{@st59b}Skills{nl}{@st59s} - Możesz zwiększyć rangę danego Skilla maksymalnie do 5 poziomu.{nl} - Atrybuty nauczone od Mistrzów możesz zobaczyć pod swoimi Skillami. {/}
+UI_20150317_000647	{memo X}{@st43}Skille i Atrybuty{/}
+UI_20150317_000648	{memo X}{@st59}Zamknij Klasy i Skille{/}
+UI_20150317_000649	{@st59b}Klasy{nl}{@st59s}- Możesz nauczyć się nowych skilli rozwijając Krąg swojej Klasy. {nl} - Możesz wybrać spośród 3 dostępnych Klas do rozwoju pomiędzy twoim 1 i 2 poziomem rozwoju. {nl} - Możesz rozwijać swoją obecną Klasę maksymalnie 3 razy. {nl} - Po rozwoju na wyższą Klasę, nie możesz się cofnąć do poprzedniej. {nl} - Musisz zużyć wszystkie wolne punkty Skilli aby móc się rozwinąć. {nl} - Możesz wybrać tę samą Klasę.{nl}{@st59b}Skills{nl}{@st59s} - Możesz zwiększyć rangę danego Skilla maksymalnie do 5 poziomu.{nl} - Atrybuty nauczone od Mistrzów możesz zobaczyć pod swoimi Skillami. {/}
 UI_20150317_000650	{memo X}{@st41b}Zastosuj{/}
 UI_20150317_000651	{@st59}Zastosuj{/}
 UI_20150317_000652	Cleric
@@ -725,7 +725,7 @@ UI_20150317_000724	{@st43}Stat{/}
 UI_20150317_000725	systemmenu_vertical tentative removal
 UI_20150317_000726	{@st59}Informacje o Postaci (F1){/}
 UI_20150317_000727	{@st59}Inwentarz (F2){/}
-UI_20150317_000728	${@st59}Klasy i Skille (F3){/}
+UI_20150317_000728	{@st59}Klasy i Skille (F3){/}
 UI_20150317_000729	{@st59}Dziennik Przygody (F4){/}
 UI_20150317_000730	{@st59}Questy (F5){/}
 UI_20150317_000731	{@st59}Drużyna (F6){/}
@@ -848,9 +848,9 @@ UI_20150317_000847	Wpisz słowo do wyszukania
 UI_20150317_000848	Wszystkie wartości
 UI_20150317_000849	{ol}Nazwa
 UI_20150317_000850	{ol}Wartość
-UI_20150317_000851	$Rogue
+UI_20150317_000851	Rogue
 UI_20150317_000852	{ol}Wersja
-UI_20150317_000853	${ol}Rogue
+UI_20150317_000853	{ol}Rogue
 UI_20150317_000854	Lista Klas
 UI_20150317_000855	Konwersja do XML
 UI_20150317_000856	{ol}Nazwa Klasy
@@ -945,11 +945,11 @@ UI_20150317_000944	{@St59}Character Selection{/}
 UI_20150317_000945	{@St59}Logout{/}
 UI_20150317_000946	{@St59}Settings{/}
 UI_20150317_000947	{@St59}Quit{/}
-UI_20150317_000948	{@st43}Lodge Settings{/}
-UI_20150317_000949	{@st59}Close Lodge Settings{/}
-UI_20150317_000950	{memo X}{@St42_b}{s18}{#f5c384}Team Name{/}
-UI_20150317_000951	{@st59}Enter Team name {/}
-UI_20150317_000952	{memo X}{@st59}Save Team Name{/}
+UI_20150317_000948	{@st43}Ustawienia loży{/}
+UI_20150317_000949	{@st59}Zamknij ustawienia loży{/}
+UI_20150317_000950	{memo X}{@St42_b}{s18}{#f5c384}Nazwa Drużyny{/}
+UI_20150317_000951	{@st59}Wpisz nazwę Drużyny {/}
+UI_20150317_000952	{memo X}{@st59}Zapisz nazwę Drużyny{/}
 UI_20150317_000953	Provisional Delete
 UI_20150317_000954	{@St59}Close Decorate Lodge{/}
 UI_20150317_000955	{@St43}Barrack Decorating{/}
@@ -959,7 +959,7 @@ UI_20150317_000958	{@St41b}Name
 UI_20150317_000959	{@St41b}Price
 UI_20150317_000960	{@St41b}State
 UI_20150317_000961	{@St44}Nowa postać{/}
-UI_20150317_000962	{@St41b}{s22}$Wybierz Klasę postaci{/}
+UI_20150317_000962	{@St41b}{s22}Wybierz Klasę postaci{/}
 UI_20150317_000963	{@St41b}Powrót{/}
 UI_20150317_000964	{@St59}Wróć do loży nie tworząc postaci
 UI_20150317_000965	Zmień postać
@@ -1028,7 +1028,7 @@ UI_20150317_001027	{@st41b}Tryb Single{/}
 UI_20150317_001028	{@St41b}Wyjdź z gry{/}
 UI_20150317_001029	Zapisz
 UI_20150317_001030	{@St59}Jeśli zaznaczone, twoje konto zostanie zapamiętane{/}
-UI_20150317_001031	Lista serwerów
+UI_20150317_001031	Serwery
 UI_20150317_001032	{@St59}Wybierz serwer{/}
 UI_20150317_001033	Login Title
 UI_20150317_001034	[Zamknięta wersja beta (PL)]
@@ -1140,7 +1140,7 @@ UI_20150317_001139	Lv i powyżej
 UI_20150317_001140	Każdy może założyć
 UI_20150317_001141	{memo X}Max slotów : ×%s
 UI_20150317_001142	Nazwa przedmiotu
-UI_20150317_001143	Wartość sprzedaży sklepu : %s silver
+UI_20150317_001143	Wartość w sklepie : %s silver
 UI_20150317_001144	Ile
 UI_20150317_001145	{@St42b}Full Exploration Rate of Siauliai{/}
 UI_20150317_001146	{@St42b}West Forest Area Explored{/}
@@ -1325,7 +1325,7 @@ UI_20150323_001324	{memo X}INT
 UI_20150323_001325	{memo X}DEX
 UI_20150323_001326	{memo X}CRT
 UI_20150323_001327	{memo X}{@st43}Rozstaw sklep{/}
-UI_20150323_001328	{@st41b}Ustawienia
+UI_20150323_001328	{@st41b}Rozstaw
 UI_20150323_001329	Cena za sztukę
 UI_20150323_001330	{@st41b}Lista materiałów
 UI_20150323_001331	{memo X}{@st43}Gem Roasting{/}
@@ -1333,12 +1333,12 @@ UI_20150323_001332	{@st59}Zamknij UI{/}
 UI_20150323_001333	{@st41b}Napraw{/}
 UI_20150323_001334	{memo X}{@st41b}Log{/}
 UI_20150323_001335	{memo X}Cena otrzymania
-UI_20150323_001336	${@st59}Umieść gem{/}
+UI_20150323_001336	{@st59}Umieść gem{/}
 UI_20150323_001337	Zużyty materiał
 UI_20150323_001338	Pozostała ilość
 UI_20150323_001339	{@st42}Zamknij
-UI_20150323_001340	${@st43}Przegląd broni{/}
-UI_20150323_001341	${@st43}Przegląd ekwipunku{/}
+UI_20150323_001340	{@st43}Przegląd broni{/}
+UI_20150323_001341	{@st43}Przegląd ekwipunku{/}
 UI_20150323_001342	{memo X}{@st41b}Cena otrzymania
 UI_20150323_001343	{@st41b}Materiały
 UI_20150323_001344	{@st43}Napraw{/}
@@ -1729,7 +1729,7 @@ UI_20150717_001728	Obserwuj inną postać
 UI_20150717_001729	{@st41}Pole bitwy
 UI_20150717_001730	Wyniki
 UI_20150717_001731	{@st41}Przejdź natychmiast
-UI_20150717_001732	${@st41b}            Nazwa Drużyny reprezentuje wszystkie twoje postaci.{nl}                 Jest wspólnym nazwiskiem dla każdej twojej postaci i twoim identyfikatorem.{nl}                  Nazwę Drużyny możesz zmienić też później.{/}
+UI_20150717_001732	{@st41b}            Nazwa Drużyny reprezentuje wszystkie twoje postaci.{nl}                 Jest wspólnym nazwiskiem dla każdej twojej postaci i twoim identyfikatorem.{nl}                  Nazwę Drużyny możesz zmienić też później.{/}
 UI_20150729_001733	{@st42}Pokazuj tylko atrybuty, których możesz się nauczyć{/}
 UI_20150729_001734	Licznik nóg
 UI_20150729_001735	Wysokość
@@ -1738,7 +1738,7 @@ UI_20150729_001737	{@st43}Pieczenie Gemów{/}
 UI_20150729_001738	{@st59b}Tworzenie przedmiotów{nl}{@st59s} - Przedmioty można tworzyć używając recept.{nl} - Przenieś receptę oraz potrzebne składniki na odpowiednie sloty aby rozpocząć tworzenie przedmiotu. {nl} - Możesz dołączyć unikalną nazwę oraz notatkę do przedmiotu.{/}
 UI_20150729_001739	{@st59}Zamknij tworzenie strzał{/}
 UI_20150729_001740	{memo X}Wymagane fragmenty : Mutant %s / Bestia %s / Roślina %s
-UI_20150729_001741	${@st42b}         Klasa Swordsman może biegać wciskając                        dwa razy dany kierunek.{/}
+UI_20150729_001741	{@st42b}         Klasa Swordsman może biegać wciskając                        dwa razy dany kierunek.{/}
 UI_20150729_001742	{@st41}Opcje drużyny
 UI_20150729_001743	{@st41}Opcje rekrutacji
 UI_20150729_001744	{@st42}Szukaj członków drużyny{/}
@@ -1761,13 +1761,13 @@ UI_20150729_001760	{@st59}Zaakceptuj misję drużynową{/}
 UI_20150729_001761	{@st59}Usuń ten Ticket{/}
 UI_20150729_001762	Wynik
 UI_20150729_001763	Dołącz do Ligi Walk Drużynowych
-UI_20150730_001764	{memo X}{@st56}Mój ranking
-UI_20150730_001765	{memo X}{@st56}Ranking zabójstw
-UI_20150730_001766	{memo X}{@st56}Ranking obrażeń
+UI_20150730_001764	{memo X}{@st56}Ja
+UI_20150730_001765	{memo X}{@st56}Zabójstwa
+UI_20150730_001766	{memo X}{@st56}Obrażenia
 UI_20150803_001767	Ogólny: /s czat{nl}Krzyk: /y czat {nl}Drużynowy: /p czat{nl} Szept: /w NazwaDrużyny Czat
 UI_20150803_001768	{@st66b}Wibracja pada{/}
 UI_20150803_001769	Znaleziono pasującą grę. Poczekaj na dołączenie.
-UI_20150804_001770	${memo had to be shortened to fit the UI}{@st43}{s18}Wybierz postać aby otrzymać przedmiot(y).{/}
+UI_20150804_001770	{memo had to be shortened to fit the UI}{@st43}{s18}Wybierz postać aby otrzymać przedmiot(y).{/}
 UI_20150804_001771	Max slotów : %s
 UI_20150807_001772	{@st41b}Szczegóły {img red_down_arrow 16 16}
 UI_20150807_001773	{memo X}
@@ -1805,9 +1805,9 @@ UI_20150918_001804	Suma niewymienialnych: %s
 UI_20150918_001805	{@st42b}Sprawdź dialog{/}
 UI_20150918_001806	{@st66b}Daj jedzenie poza drużyną{/}
 UI_20150918_001807	{@st41b}Zmień tytuł tabliczki
-UI_20150918_001808	{@sti9}Mój ranking
-UI_20150918_001809	{@sti9}Ranking zabójstw
-UI_20150918_001810	{@sti9}Ranking obrażeń
+UI_20150918_001808	{@sti9}Ja
+UI_20150918_001809	{@sti9}Zabójstwa
+UI_20150918_001810	{@sti9}Obrażenia
 UI_20151001_001811	{@st43}Ustawienia klawiszy{/}
 UI_20151001_001812	{@st45tw2}Kategoria
 UI_20151001_001813	Akcja
@@ -1826,7 +1826,7 @@ UI_20151016_001825	Ogłoszenie
 UI_20151022_001826	{@st41}Kolejna na serwer
 UI_20151022_001827	{#000000}{s18}Serwer jest obecnie pełny. Oczekiwanie w kolejce na wejście.
 UI_20151022_001828	{@st66b18}Obecna pozycja : %s
-UI_20151022_001829	{@st66b}Pokaż efekty innej postaci
+UI_20151022_001829	{@st66b}Pokaż efekty innych postaci
 UI_20151023_001830	{@st41b}iCoin{/}
 UI_20151023_001831	{@st41}iCoin
 UI_20151023_001832	iCoin
