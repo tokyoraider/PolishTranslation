@@ -1,7 +1,8 @@
 ##POLSKIE TŁUMACZENIE TREE OF SAVIOR
 
-Strona projektu: [http://treeofsavior.pl]
-Forum: [http://forum.treeofsavior.pl]
+Strona projektu: http://treeofsavior.pl
+
+Forum: http://forum.treeofsavior.pl
 
 Obecnie tlumaczymy na podstawie **CBT2** z angielskiego.
 
@@ -13,6 +14,7 @@ Autorzy:
 Jak chcesz pomóc, twórz swój branch i tlumacz!
 
 **Zanim zaczniesz tlumaczyc, pobierz najnowsze pliki z mastera!**
+
 **Prosze wysylac osobny pull request na kazdy plik!**
 
 
