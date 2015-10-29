@@ -913,14 +913,14 @@ UI_20150317_000912	{@st42}Monk{/}
 UI_20150317_000913	{@st42}Sorcerer{/}
 UI_20150317_000914	{memo X}{@st41}Skill{/}
 UI_20150317_000915	{memo X}{@st59}Wgraj XML{/}
-UI_20150317_000916	{memo X}{@st41}Load{/}
-UI_20150317_000917	{memo X}{@st59}Save as xml{/}
+UI_20150317_000916	{memo X}{@st41}Załaduj{/}
+UI_20150317_000917	{memo X}{@st59}Zapisz jako XML{/}
 UI_20150317_000918	{memo X}{@st59}Reset Open Skill map{/}
-UI_20150317_000919	{memo X}{@st41}Reset{/}
-UI_20150317_000920	{memo X}{@st59}Reset all Skill  maps{/}
+UI_20150317_000919	{memo X}{@st41}Zresetuj{/}
+UI_20150317_000920	{memo X}{@st59}Zresetuj wszystkie mapy skilli{/}
 UI_20150317_000921	{memo X}{@st41}Reset All{/}
-UI_20150317_000922	{memo X}{S18}Remove script
-UI_20150317_000923	{memo X}{S18}String argument
+UI_20150317_000922	{memo X}{S18}Usuń skrypt
+UI_20150317_000923	{memo X}{S18}Argument tekstowy
 UI_20150317_000924	{memo X}{s18}string 1 argument
 UI_20150317_000925	{memo X}{s18}string 2 argument
 UI_20150317_000926	{memo X}{s18}Max skill level
@@ -973,16 +973,16 @@ UI_20150317_000972	{@St43b}Wybierz płeć{/}
 UI_20150317_000973	{@St59}Kobieta{/}
 UI_20150317_000974	{@St59}Mężczyzna{/}
 UI_20150317_000975	{@st43b}Wybierz fryzurę{/}
-UI_20150317_000976	{@st59}Fryzura1{/}
-UI_20150317_000977	{@st59}Fryzura2{/}
-UI_20150317_000978	{@St59}Fryzura3{/}
-UI_20150317_000979	{@st59}Fryzura4{/}
-UI_20150317_000980	{@st59}Fryzura5{/}
-UI_20150317_000981	{@st59}Fryzura6{/}
-UI_20150317_000982	{@st59}Fryzura7{/}
-UI_20150317_000983	{@st59}Fryzura8{/}
-UI_20150317_000984	{@st59}Fryzura9{/}
-UI_20150317_000985	{@st59}Fryzura10{/}
+UI_20150317_000976	{@st59}Fryzura 1{/}
+UI_20150317_000977	{@st59}Fryzura 2{/}
+UI_20150317_000978	{@St59}Fryzura 3{/}
+UI_20150317_000979	{@st59}Fryzura 4{/}
+UI_20150317_000980	{@st59}Fryzura 5{/}
+UI_20150317_000981	{@st59}Fryzura 6{/}
+UI_20150317_000982	{@st59}Fryzura 7{/}
+UI_20150317_000983	{@st59}Fryzura 8{/}
+UI_20150317_000984	{@st59}Fryzura 9{/}
+UI_20150317_000985	{@st59}Fryzura 10{/}
 UI_20150317_000986	{@St43b}Wybierz Klasę{/}
 UI_20150317_000987	{@st59}Swordsman{/}
 UI_20150317_000988	{@st59}Wizard{/}
@@ -1018,9 +1018,9 @@ UI_20150317_001017	Podpowiedź
 UI_20150317_001018	Porady do gry
 UI_20150317_001019	Login
 UI_20150317_001020	ID konta
-UI_20150317_001021	{@st59}Enter your Account ID{/}
-UI_20150317_001022	Password
-UI_20150317_001023	{@St59}Enter your password{/}
+UI_20150317_001021	{@st59}Wpisz ID swojego konta{/}
+UI_20150317_001022	Hasło
+UI_20150317_001023	{@St59}Wpisz swoje hasło{/}
 UI_20150317_001024	{@St43}Zaloguj{/}
 UI_20150317_001025	{@St59}Połącz z wybranym serwerem{/}
 UI_20150317_001026	{@st41b}Powrótka{/}
@@ -1119,13 +1119,13 @@ UI_20150317_001118	{@St59}Opcje Baraku{/}
 UI_20150317_001119	Ramka własnego przedmiotu
 UI_20150317_001120	Zielony
 UI_20150317_001121	Gęstość
-UI_20150317_001122	Like HP
+UI_20150317_001122	Lubię HP
 UI_20150317_001123	{@st59}Akcesoria do włosów{/}
 UI_20150317_001124	{@st59}Podrzędne akcesoria{/}
 UI_20150317_001125	{@St42}Tekst{/}
-UI_20150317_001126	Basic content name
-UI_20150317_001127	Basic group name
-UI_20150317_001128	Basic item name
+UI_20150317_001126	Nazwa podstawowej zawartości
+UI_20150317_001127	Nazwa podstawowej grupy
+UI_20150317_001128	Nazwa podstawowego przedmiotu
 UI_20150317_001129	Mr Kim
 UI_20150317_001130	Waga : %s
 UI_20150317_001131	brak
@@ -1337,47 +1337,47 @@ UI_20150323_001336	${@st59}Umieść gem{/}
 UI_20150323_001337	Zużyty materiał
 UI_20150323_001338	Pozostała ilość
 UI_20150323_001339	{@st42}Zamknij
-UI_20150323_001340	${@st43}Weapon Maintenance{/}
-UI_20150323_001341	${@st43}Equipment Maintenance{/}
-UI_20150323_001342	{memo X}{@st41b}Price to receive
-UI_20150323_001343	{@st41b}Materials
-UI_20150323_001344	{@st43}Repair{/}
-UI_20150323_001345	{@st41b}Repair{/}
-UI_20150323_001346	Skill Level
-UI_20150323_001347	{@st41}No. of players to enter
-UI_20150323_001348	{@st43}Item upgrade dungeon
+UI_20150323_001340	${@st43}Przegląd broni{/}
+UI_20150323_001341	${@st43}Przegląd ekwipunku{/}
+UI_20150323_001342	{memo X}{@st41b}Cena otrzymania
+UI_20150323_001343	{@st41b}Materiały
+UI_20150323_001344	{@st43}Napraw{/}
+UI_20150323_001345	{@st41b}Napraw{/}
+UI_20150323_001346	Level Skilla
+UI_20150323_001347	{@st41}Liczba graczy do wejścia
+UI_20150323_001348	{@st43}Dungeon ulepszenia przedmiotu
 UI_20150323_001349	{@st41}Materials Required
 UI_20150323_001350	{@st59}Materials Required{/}
-UI_20150323_001351	Recommended Level : %s
-UI_20150323_001352	{memo X}{@st43}UI Select Mode{/}
-UI_20150323_001353	{@st43}Buy-in Shop
-UI_20150323_001354	Shop Name
-UI_20150323_001355	{@st41b}Open Shop
-UI_20150323_001356	{@st59}Start Buy-in Shop{/}
-UI_20150323_001357	{@st59}Cancel{/}
-UI_20150323_001358	{@st59}Close Buy-in Shop{/}
+UI_20150323_001351	Zalecany Level : %s
+UI_20150323_001352	{memo X}{@st43}Tryb wyboru UI{/}
+UI_20150323_001353	{@st43}Sklepik
+UI_20150323_001354	Nazwa sklepu
+UI_20150323_001355	{@st41b}Otwórz sklepik
+UI_20150323_001356	{@st59}Rozstaw sklepik{/}
+UI_20150323_001357	{@st59}Anuluj{/}
+UI_20150323_001358	{@st59}Zwiń sklepik{/}
 UI_20150323_001359	Request Buy-in
-UI_20150323_001360	{memo X}{@st59}Close Buy-in Shop
-UI_20150323_001361	{memo X}{@st59}Buy-in Shop{nl} - Trade your items for silver
-UI_20150323_001362	{memo X}{@st43}Items the buyer wants{/}
-UI_20150323_001363	{memo X}{@st43}Items for sale
-UI_20150323_001364	{memo X}{@st43}Total Profit
-UI_20150323_001365	{memo X}{@st41}Sell
-UI_20150323_001366	{@st41}Alchemy Materials
-UI_20150323_001367	{@st41}Alchemy Result {@stx1}(%s required){/}
-UI_20150323_001368	{@st59}Summon Pet{/}
+UI_20150323_001360	{memo X}{@st59}Zwiń sklepik
+UI_20150323_001361	{memo X}{@st59}Sklepik{nl} - Wymień swoje przedmioty za silver
+UI_20150323_001362	{memo X}{@st43}Przedmioty, które chce kupujący{/}
+UI_20150323_001363	{memo X}{@st43}Przedmioty na sprzedaż
+UI_20150323_001364	{memo X}{@st43}Suma zysków
+UI_20150323_001365	{memo X}{@st41}Sprzedaj
+UI_20150323_001366	{@st41}Materiały alchemiczne
+UI_20150323_001367	{@st41}Wynik alchemii {@stx1}(%s wymagane){/}
+UI_20150323_001368	{@st59}Wezwij zwierzątko{/}
 UI_20150323_001369	{@st41b}Postać{/}
 UI_20150323_001370	{@st59}Grimoire{/}
-UI_20150323_001371	{memo X}{@st41b}Apply Bloom{/}
-UI_20150323_001372	{memo X}{@st41b}Apply Vignette{/}
-UI_20150323_001373	{memo X}{@st41b}Apply FXAA{/}
-UI_20150323_001374	{memo X}{@st41b}Apply GLOW{/}
-UI_20150323_001375	{memo X}{@st41b}Apply Depth {/}
-UI_20150323_001376	{memo X}{@st41b}Apply SoftParticle{/}
-UI_20150323_001377	{@st43}Personal Storage{/}
-UI_20150323_001378	{memo X}{@st59}Close Personal Storage{/}
-UI_20150323_001379	{memo X}{@sti6}Storing and taking items from storage costs %s silver...{/}
-UI_20150323_001380	{memo X}{@st59}Alt+Z to change weapons{/}
+UI_20150323_001371	{memo X}{@st41b}Włącz efekt Bloom{/}
+UI_20150323_001372	{memo X}{@st41b}Włącz winiety{/}
+UI_20150323_001373	{memo X}{@st41b}Włącz FXAA{/}
+UI_20150323_001374	{memo X}{@st41b}Włącz efekt Glow{/}
+UI_20150323_001375	{memo X}{@st41b}Włącz głębię {/}
+UI_20150323_001376	{memo X}{@st41b}Włącz Soft Particle{/}
+UI_20150323_001377	{@st43}Schowek Osobisty{/}
+UI_20150323_001378	{memo X}{@st59}Zamknij Schowek Osobisty{/}
+UI_20150323_001379	{memo X}{@sti6}Chowanie i wyjmowanie przedmiotów ze schowka kosztuje %s silver...{/}
+UI_20150323_001380	{memo X}{@st59}Alt+Z aby zmienić broń{/}
 UI_20150323_001381	{@st59}Zapisz ustawienia loży{/}
 UI_20150323_001382	Zmień lożę
 UI_20150323_001383	{@st59}Zamknij okno zmiany loży
@@ -1398,87 +1398,87 @@ UI_20150323_001397	Szukaj przedmiotów do kupienia
 UI_20150323_001398	Ilość
 UI_20150323_001399	Cena za szt
 UI_20150323_001400	{memo X}{@sti5}×%s{/}
-UI_20150323_001401	{@st41}Eat
-UI_20150323_001402	{@st41}Craft
-UI_20150323_001403	{memo X}{@st41}Quantity
-UI_20150323_001404	{memo X}{@st41}Consumable Material
-UI_20150401_001405	{@st59}Close Briquetting{/}
-UI_20150401_001406	{memo X}{@st41}Remove Base Camp
-UI_20150401_001407	{@st43}[Circle %s]{/}
+UI_20150323_001401	{@st41}Zjedz
+UI_20150323_001402	{@st41}Produkuj
+UI_20150323_001403	{memo X}{@st41}Ilość
+UI_20150323_001404	{memo X}{@st41}Zużyty materiał
+UI_20150401_001405	{@st59}Zamknij brykietowanie{/}
+UI_20150401_001406	{memo X}{@st41}Usuń obozowisko
+UI_20150401_001407	{@st43}[Krąg %s]{/}
 UI_20150401_001408	{@st43}Skill{/}
-UI_20150401_001409	{@st43}Class Tip{/}
-UI_20150401_001410	Class Tip
-UI_20150401_001411	{memo X}{@st42}{#ffff00}Lock Target {/}
-UI_20150401_001412	{memo X}{@st41}Remove Table
+UI_20150401_001409	{@st43}Podpowiedź Klasy{/}
+UI_20150401_001410	Podpowiedź Klasy
+UI_20150401_001411	{memo X}{@st42}{#ffff00}Zalokuj cel {/}
+UI_20150401_001412	{memo X}{@st41}Usuń tabelę
 UI_20150401_001413	{@st43}Tincturing{/}
-UI_20150401_001414	Joystick Quick Slot
-UI_20150401_001415	{memo X}{@st42}{#ffff00}Keyboard Mode{/}
-UI_20150401_001416	{@st43}Open Offering Box
-UI_20150401_001417	{@st41b}Open
-UI_20150401_001418	{@st41b}Offering Box
-UI_20150401_001419	{@st41}Offering Box Name
-UI_20150401_001420	Payment
-UI_20150401_001421	Estimated Profit
-UI_20150401_001422	Funds
-UI_20150401_001423	{memo X}{@st45tw}Offering Box Item Details
-UI_20150401_001424	{@st41}Sell All
-UI_20150401_001425	{@st43}Offering Box
-UI_20150401_001426	Offer
-UI_20150401_001427	Settle Transaction
-UI_20150401_001428	Estimated Balance
-UI_20150401_001429	{@st45tw}Offering Box
-UI_20150401_001430	{memo X}{@st41}Empty
-UI_20150401_001431	{@st43}Current zone user list{/}
-UI_20150401_001432	{@st59}Close GM UI list{/}
-UI_20150401_001433	{memo X}{@st41}Party Description :
-UI_20150401_001434	{s20}Amount of Poison {s28}{b}{#ff6600}%s
-UI_20150401_001435	Materials for Poison
-UI_20150401_001436	{@st41b}Select All{/}
-UI_20150401_001437	{@st59}Unselect all by clicking again{/}
-UI_20150401_001438	{@st41b}Craft{/}
-UI_20150401_001439	{memo X}{@st59}Mix mix turn and mix{/}
-UI_20150401_001440	{@st41b}Achievements{/}
-UI_20150401_001441	Hairstyle Color
-UI_20150401_001442	Available Titles
-UI_20150401_001443	{memo X}{@st41b}Joystick UI mode{/}
-UI_20150401_001444	{memo X}{@st41}{#ffffcc}Name
-UI_20150401_001445	{memo X}{@st41}{#ffffcc}Price
+UI_20150401_001414	Szybki slot pada
+UI_20150401_001415	{memo X}{@st42}{#ffff00}Tryb klawiatury{/}
+UI_20150401_001416	{@st43}Otwórz pudełko z ofiarą
+UI_20150401_001417	{@st41b}Otwórz
+UI_20150401_001418	{@st41b}Pudełko z ofiarą
+UI_20150401_001419	{@st41}Nazwa pudełka z ofiarą
+UI_20150401_001420	Płatność
+UI_20150401_001421	Prognozowany zysk
+UI_20150401_001422	Środki
+UI_20150401_001423	{memo X}{@st45tw}Szczegóły pudełka z ofiarą
+UI_20150401_001424	{@st41}Sprzedaj wszystko
+UI_20150401_001425	{@st43}Pudełko z ofiarą
+UI_20150401_001426	Ofiara
+UI_20150401_001427	Dokonaj transakcji
+UI_20150401_001428	Prognozowany bilans
+UI_20150401_001429	{@st45tw}Pudełko z ofiarą
+UI_20150401_001430	{memo X}{@st41}Puste
+UI_20150401_001431	{@st43}Lista graczy w danej strefie{/}
+UI_20150401_001432	{@st59}Zamknij listę UI GMa{/}
+UI_20150401_001433	{memo X}{@st41}Opis drużyny :
+UI_20150401_001434	{s20}Ilość trucizny {s28}{b}{#ff6600}%s
+UI_20150401_001435	Materiały na truciznę
+UI_20150401_001436	{@st41b}Zaznacz wszystko{/}
+UI_20150401_001437	{@st59}Odznacz wszystko klikając ponownie{/}
+UI_20150401_001438	{@st41b}Utwórz{/}
+UI_20150401_001439	{memo X}{@st59}*mieszu mieszu obrotu i mieszu*{/}
+UI_20150401_001440	{@st41b}Osiągnięcia{/}
+UI_20150401_001441	Kolor włosów
+UI_20150401_001442	Dostępne tytuły
+UI_20150401_001443	{memo X}{@st41b}Tryb UI pada{/}
+UI_20150401_001444	{memo X}{@st41}{#ffffcc}Nazwa
+UI_20150401_001445	{memo X}{@st41}{#ffffcc}Cena
 UI_20150401_001446	{memo X}{@st41}{#ffffcc}Status
-UI_20150401_001447	{memo X}{@st41b}Cancel Preview
-UI_20150401_001448	{memo X}{@st41}{#ffff00}My iCoins : %s{/}
-UI_20150401_001449	Equipped
-UI_20150401_001450	{memo X}Description : {#FFFF00}%s{/}
-UI_20150401_001451	{memo X}Average Level : {#FFFF00}%s{/}
-UI_20150401_001452	{memo X}Conditions
-UI_20150401_001453	Title %s
-UI_20150401_001454	Reward %s
+UI_20150401_001447	{memo X}{@st41b}Anuluj podgląd
+UI_20150401_001448	{memo X}{@st41}{#ffff00}Moje iCoiny : %s{/}
+UI_20150401_001449	Założony
+UI_20150401_001450	{memo X}Opis : {#FFFF00}%s{/}
+UI_20150401_001451	{memo X}Średni Level : {#FFFF00}%s{/}
+UI_20150401_001452	{memo X}Warunki
+UI_20150401_001453	Tytuł %s
+UI_20150401_001454	Nagroda %s
 UI_20150401_001455	{memo X}{@st42}Ilość
 UI_20150406_001456	{@st43}Obozowisko
 UI_20150406_001457	{@st42}Zbuduj
-UI_20150406_001458	{@st42}Cancel
-UI_20150406_001459	{memo X}{@stc1}Camp Duration
-UI_20150406_001460	{@st41b}Base Camp
-UI_20150406_001461	{memo X}{@st41b}Camp Duration
-UI_20150406_001462	{memo X}{@st42b}A base camp lasts for an additional 24 hours when renewed. {nl}%s silver is consumed.
-UI_20150406_001463	{memo X}{@st41}Remove Camp
-UI_20150406_001464	{memo X}{@st42}Remove Table
-UI_20150406_001465	{@st59b}Grimoire{nl}{@st59s} - Place a card on the deck to start summoning{/}
-UI_20150406_001466	{memo X}{@st41}My Summon Skill
+UI_20150406_001458	{@st42}Anuluj
+UI_20150406_001459	{memo X}{@stc1}Czas trwania obozu
+UI_20150406_001460	{@st41b}Obozowisko
+UI_20150406_001461	{memo X}{@st41b}Czas trwania obozu
+UI_20150406_001462	{memo X}{@st42b}Po odnowieniu, obozowisko przetrwa dodatkowe 24 godziny. {nl}Zużywa to %s silver.
+UI_20150406_001463	{memo X}{@st41}Usuń obóz
+UI_20150406_001464	{memo X}{@st42}Usuń tabelę
+UI_20150406_001465	{@st59b}Grimoire{nl}{@st59s} - Połóż kartę na talii aby rozpocząć przywoływanie{/}
+UI_20150406_001466	{memo X}{@st41}Mój skill przywołania
 UI_20150406_001467	{memo X}{@st41}Stat
-UI_20150406_001468	{@st41b}Offering Box Name
-UI_20150406_001469	{@st41b}Offering Box Details
-UI_20150406_001470	{@st59}Close Buy-in Shop
-UI_20150406_001471	{@st59b}Buy-in Shop{nl}{@st59s} - Trade items for silver
-UI_20150406_001472	{@st41b}Other Player's Requested Item{/}
-UI_20150406_001473	{@st41b}Available Items{/}
-UI_20150406_001474	{@st41b}Total Sales
-UI_20150406_001475	{@st41b}Sell
-UI_20150406_001476	{@st59}Sell the item(s) you've added.{/}
-UI_20150406_001477	{@st59}Close Personal Storage{/}
-UI_20150406_001478	{memo X}{@st41b} %s silver is consumed when storing and taking items from storage.{/}
-UI_20150406_001479	{@st41b}Quantity
-UI_20150414_001480	{memo X}{@st42b}The duration of your camp can be increased.{nl} Cost: %s silver.
-UI_20150414_001481	{memo X}{@st41b}Type {@sti7}%s{/}
+UI_20150406_001468	{@st41b}Nazwa pudełka z ofiarą
+UI_20150406_001469	{@st41b}Szczegóły pudełka z ofiarą
+UI_20150406_001470	{@st59}Zamknij sklepik
+UI_20150406_001471	{@st59b}Sklepik{nl}{@st59s} - Wymieniaj przedmioty za silver
+UI_20150406_001472	{@st41b}Inny gracz prosi o przedmiot{/}
+UI_20150406_001473	{@st41b}Dostępne przedmioty{/}
+UI_20150406_001474	{@st41b}Suma sprzedaży
+UI_20150406_001475	{@st41b}Sprzedaj
+UI_20150406_001476	{@st59}Sprzedaj dodane przedmioty.{/}
+UI_20150406_001477	{@st59}Zamknij schowek osobisty{/}
+UI_20150406_001478	{memo X}{@st41b} %s silver jest zużywane podczas wkładania i wyjmowania przedmiotów ze schowka.{/}
+UI_20150406_001479	{@st41b}Ilość
+UI_20150414_001480	{memo X}{@st42b}Możesz wydłużyć czas trwania swojego obozowiska.{nl} Koszt: %s silver.
+UI_20150414_001481	{memo X}{@st41b}Typ {@sti7}%s{/}
 UI_20150414_001482	{memo X}{@st41b}Control Difficulty {@sti7}%s{/}
 UI_20150414_001483	{@st59b} Przedmiot {/}
 UI_20150414_001484	{@st59b} Potwór {/}
@@ -1512,7 +1512,7 @@ UI_20150428_001511	Samouczek pada
 UI_20150428_001512	{memo X}{@st59}Zamknij samouczek pada (M){/}
 UI_20150428_001513	Samouczek klawiatury
 UI_20150428_001514	{@st44}Wyloguj{/}
-UI_20150428_001515	{memo X}{@st41b}Leave Helper(Requires %s iCoin){/}
+UI_20150428_001515	{memo X}{@st41b}Pozostaw pomocnika (wymagane %s iCoin){/}
 UI_20150428_001516	{memo X}Koszt dodania slota : {#ff9933}%s{/}{nl}Koszt wyjęcia gema : {#ff9933}%s{/}
 UI_20150428_001517	{memo X}{@st41b}Wyjmij gem
 UI_20150428_001518	{@st42}{s14}{#ffff00}Tryb UI{/}
@@ -1525,11 +1525,11 @@ UI_20150428_001524	Polowanie
 UI_20150428_001525	Eventy
 UI_20150428_001526	{memo X}{@st41}Różnica Leveli{/}
 UI_20150428_001527	{memo X}Niezwiązane
-UI_20150428_001528	{memo X}{@st41}Desired Class Type{/}
+UI_20150428_001528	{memo X}{@st41}Pożądany typ Klasy{/}
 UI_20150428_001529	{@st41b}Opuść drużynę
 UI_20150428_001530	{memo X}{@st59}Szukaj w opisach drużyn{/}
-UI_20150428_001531	{s18}{ol}{gr gradation1}Helper Rules{/}
-UI_20150428_001532	{@st59}Proceed crafting{/}
+UI_20150428_001531	{s18}{ol}{gr gradation1}Zasady pomocnika{/}
+UI_20150428_001532	{@st59}Kontynuuj tworzenie{/}
 UI_20150428_001533	{memo X}{@st45ty}Kolor włosów
 UI_20150428_001534	{memo X}{@st45ty}Dostępny tytuł
 UI_20150428_001535	{@st41_yellow}Skill pomocniczny
@@ -1550,7 +1550,7 @@ UI_20150428_001549	{memo X}{@st41b}Nie zmieniaj{/}
 UI_20150428_001550	FAQ o grze
 UI_20150428_001551	Gracze : (%s/%s)
 UI_20150428_001552	Co najmniej Lv. 100 : (%s/%s)
-UI_20150511_001553	{memo X}{@st41}Link Party Invite
+UI_20150511_001553	{memo X}{@st41}Podlinkuj zaproszenie do drużyny
 UI_20150714_001554	{@st66b}Sprzedane przedmioty : ×%s / Niesprzedane przedmioty : ×%s{/}
 UI_20150714_001555	{@st41b}Dziennik wymiany
 UI_20150714_001556	{@st41b}Usuń obozowisko
@@ -1560,7 +1560,7 @@ UI_20150714_001559	Wybierz kartę
 UI_20150714_001560	Indeks przygody:{#ffff00} %s{/} ({#ffff00}ranked #%s{/})
 UI_20150714_001561	{@st66b}Lubię!
 UI_20150714_001562	{memo X}Lubię tę postać {#ffff00}%s{/}
-UI_20150714_001563	{@st41b}Remove Refreshment Table
+UI_20150714_001563	{@st41b}Usuń tabelę napojów
 UI_20150714_001564	{memo X}{@st42}Mój Skill przywołania
 UI_20150714_001565	{@st42}Stat
 UI_20150714_001566	{memo X}{@st42}Obecna lokacja : %s{/}
@@ -1571,7 +1571,7 @@ UI_20150714_001570	{@st66}Zaznacz wszystkie
 UI_20150714_001571	{@st43}Stwórz strzałę{/}
 UI_20150714_001572	{@st59}Zamknij UI{/}
 UI_20150714_001573	{@st66b}Sprawdź{/}
-UI_20150714_001574	{@st66b}Leave Helper(Requires %s iCoin){/}
+UI_20150714_001574	{@st66b}Zostaw pomocnika (wymagane %s iCoin){/}
 UI_20150714_001575	Cena dodatkowego slota : {#000000}%s{/} {nl}Cena wyjęcia gema : {#000000}%s{/}
 UI_20150714_001576	{ds}Zalecany Level : %s
 UI_20150714_001577	Odkryto : 50.0%
@@ -1695,37 +1695,37 @@ UI_20150717_001694	{memo X}{#ffff00}%s{/} graczy lubi tę postać
 UI_20150717_001695	{@st41b}{s56}Ta gra jest {#0066FF}
 UI_20150717_001696	Rated T.
 UI_20150717_001697	{s40} {nl}Granie przez długie godziny może wpłynąć negatywnie na twoje zdrowie.{/}
-UI_20150717_001698	{@st66b}Enter
-UI_20150717_001699	{@st42}My Summon Info
-UI_20150717_001700	Your movement slows down when you do not have enough{@st59}STA{/}
-UI_20150717_001701	{@st59}Sorts your inventory{/}
-UI_20150717_001702	{memo X}Sort
-UI_20150717_001703	{@st59}Close Joypad Control Info.{/}
-UI_20150717_001704	{@st59}Close Keyboard Control info.{/}
-UI_20150717_001705	Mouse Tutorial
-UI_20150717_001706	{@st59}Close Mouse Control Info.{/}
-UI_20150717_001707	Attack : %s
-UI_20150717_001708	Defense : %s
+UI_20150717_001698	{@st66b}Wejdź
+UI_20150717_001699	{@st42}Informacje o moim przywołaniu
+UI_20150717_001700	Twóje ruchy spowolnią kiedy zabraknie ci {@st59}STA{/}
+UI_20150717_001701	{@st59}Sortuje twój inwentarz{/}
+UI_20150717_001702	{memo X}Posortuj
+UI_20150717_001703	{@st59}Zamknij informacje o sterowaniu padem.{/}
+UI_20150717_001704	{@st59}Zamknij informacje o sterowaniu klawiaturą.{/}
+UI_20150717_001705	Samouczek myszy
+UI_20150717_001706	{@st59}Zamknij informacje o sterowaniu myszą.{/}
+UI_20150717_001707	Atak : %s
+UI_20150717_001708	Obrona : %s
 UI_20150717_001709	STR : %s
 UI_20150717_001710	CON : %s
 UI_20150717_001711	INT : %s
 UI_20150717_001712	DEX : %s
 UI_20150717_001713	SPR : %s
-UI_20150717_001714	{memo X}{@st42b}Swordsman types can dash by pressing the arrow key twice.{/}
-UI_20150717_001715	{@st42}Party Name & Description{/}
-UI_20150717_001716	{@st42}Insert Party Invite Tag
-UI_20150717_001717	{@st41b}Public Party List{/}
-UI_20150717_001718	{memo X}{@st41b}Recommended Character List{/}
-UI_20150717_001719	{@st41b}Receive Recommendation
-UI_20150717_001720	This can only be used by party leaders.
-UI_20150717_001721	You must use the Party Member Recommendation function.
-UI_20150717_001722	{@st66b}Quest Class Name{/}
-UI_20150717_001723	{@st59b}Shop{nl}{@st59s} - Use Shift + Right-click and enter a quantity to buy/sell multiple items{nl} - Right-click twice to sell all the items{/}
-UI_20150717_001724	{@st59}Mouse Info{/}
-UI_20150717_001725	{@st66b}Sort
-UI_20150717_001726	{@st59}Sorts your items.{/}
-UI_20150717_001727	{@st59}Equip weapons to this slot{nl}Press Alt+Z to swap weapons{/}
-UI_20150717_001728	Spectate another character
+UI_20150717_001714	{memo X}{@st42b}Klasy bazujące na Swordsmanie mogą biec szybciej wciskając strzałkę kierunkową dwa razy.{/}
+UI_20150717_001715	{@st42}Nazwa drużyny i opis{/}
+UI_20150717_001716	{@st42}Wstaw tag zaproszenia do drużyny
+UI_20150717_001717	{@st41b}Lista publicznych drużyn{/}
+UI_20150717_001718	{memo X}{@st41b}Lista polecanych postaci{/}
+UI_20150717_001719	{@st41b}Otrzymaj polecenie
+UI_20150717_001720	Tylko liderzy drużyny mogą z tego korzystać.
+UI_20150717_001721	Musisz użyć fukcji rekomendacji członka drużyny.
+UI_20150717_001722	{@st66b}Nazwa Klasy Questa{/}
+UI_20150717_001723	{@st59b}Sklep{nl}{@st59s} - Użyj Shift + Prawy myszki i podaj ilość aby kupić/sprzedaż wiele przedmiotów na raz{nl} - Kliknij prawym dwa razy aby sprzedać wszystkie przedmioty{/}
+UI_20150717_001724	{@st59}Informacje o myszy{/}
+UI_20150717_001725	{@st66b}Posortuj
+UI_20150717_001726	{@st59}Posortuj swoje przedmioty.{/}
+UI_20150717_001727	{@st59}Włóż broń do tego slota{nl}Wciśnij Alt+Z aby zmienić broń{/}
+UI_20150717_001728	Obserwuj inną postać
 UI_20150717_001729	{@st41}Pole bitwy
 UI_20150717_001730	Wyniki
 UI_20150717_001731	{@st41}Przejdź natychmiast
@@ -1734,8 +1734,8 @@ UI_20150729_001733	{@st42}Pokazuj tylko atrybuty, których możesz się nauczyć
 UI_20150729_001734	Licznik nóg
 UI_20150729_001735	Wysokość
 UI_20150729_001736	Waga
-UI_20150729_001737	{@st43}Gem Roasting{/}
-UI_20150729_001738	{@st59b}Item Crafting{nl}{@st59s} - An item can be crafted by using a recipe.{nl} - Place the recipe and required materials in the slot to begin crafting an item. {nl} - You can attach a unique name and memo to the item.{/}
+UI_20150729_001737	{@st43}Pieczenie Gemów{/}
+UI_20150729_001738	{@st59b}Tworzenie przedmiotów{nl}{@st59s} - Przedmioty można tworzyć używając recept.{nl} - Przenieś receptę oraz potrzebne składniki na odpowiednie sloty aby rozpocząć tworzenie przedmiotu. {nl} - Możesz dołączyć unikalną nazwę oraz notatkę do przedmiotu.{/}
 UI_20150729_001739	{@st59}Zamknij tworzenie strzał{/}
 UI_20150729_001740	{memo X}Wymagane fragmenty : Mutant %s / Bestia %s / Roślina %s
 UI_20150729_001741	${@st42b}         Klasa Swordsman może biegać wciskając                        dwa razy dany kierunek.{/}
@@ -1748,8 +1748,8 @@ UI_20150729_001747	{@st41}Informacje o Atrybucie
 UI_20150729_001748	{@st59}Anuluj ulepszenie{/}
 UI_20150729_001749	{@st59b}Ulepszenie Gemu/Karty{nl}{@st59s} - Wybierz gem lub kartę z inwentarza aby go ulepszyć.{nl} - Wszystkie przedmioty poza questowymi mogą być użyte do ulepszania gemów.{nl} (A jeszcze lepiej używać innego gema jako materiału){nl} - Karty można ulepszać tylko za pomocą innych kart.{/}
 UI_20150729_001750	{memo X}{#000000}{s22}Kolejka na serwer
-UI_20150729_001751	{memo X}{#000000}{s22}The server is currently full. Queueing for entry.
-UI_20150729_001752	{memo X}{#000000}{s22}Current Position : %s
+UI_20150729_001751	{memo X}{#000000}{s22}Serwer jest obecnie pełny. Oczekiwanie w kolejce na wejście.
+UI_20150729_001752	{memo X}{#000000}{s22}Obecna pozycja : %s
 UI_20150729_001753	{@st43}Liga Walk Drużynowych
 UI_20150729_001754	{@st59}Zamknij Ligę Walk Drużynowych
 UI_20150729_001755	{@st42}Rozkład Ligi Walk Drużynowych
@@ -1758,9 +1758,9 @@ UI_20150729_001757	{@st59}Zamknij Rankingi Ligi Walk Drużynowych
 UI_20150729_001758	Nazwa drużyny
 UI_20150729_001759	{@st41b}Nazwa skilla
 UI_20150729_001760	{@st59}Zaakceptuj misję drużynową{/}
-UI_20150729_001761	{@st59}Delete this Ticket{/}
+UI_20150729_001761	{@st59}Usuń ten Ticket{/}
 UI_20150729_001762	Wynik
-UI_20150729_001763	Join Team Battle League
+UI_20150729_001763	Dołącz do Ligi Walk Drużynowych
 UI_20150730_001764	{memo X}{@st56}Mój ranking
 UI_20150730_001765	{memo X}{@st56}Ranking zabójstw
 UI_20150730_001766	{memo X}{@st56}Ranking obrażeń
