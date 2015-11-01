@@ -5,7 +5,7 @@ ETC_20150317_000004	Istnieją ludzie, którzy próbowali zjeść{nl}Dużą Kęp�
 ETC_20150317_000005	Czerwona Kępa
 ETC_20150317_000006	Wbrew obiegowej opinii, to właśnie Czerwona{nl}Kępa przypomina najbardziej oryginalną Kępę.
 ETC_20150317_000007	Trująca Kępa
-ETC_20150317_000008	Potwór
+ETC_20150317_000008	Potwory
 ETC_20150317_000009	Hamming
 ETC_20150317_000010	Mimo twardej skóry, Hamming jest słabiutkim stworem.
 ETC_20150317_000011	Chinency
@@ -141,9 +141,9 @@ ETC_20150317_000140	Podstępny Spectre
 ETC_20150317_000141	Zielony Rikaus
 ETC_20150317_000142	Spectron
 ETC_20150317_000143	Władca Specter
-ETC_20150317_000144	Thornball
+ETC_20150317_000144	Kłujkula
 ETC_20150317_000145	To unoszące się nasiono zmutowało, gubiąc swój puszysty kożuszek dla skorupy z kolcami. Jedyne co przetrwało, to zdolność lewitacji.
-ETC_20150317_000146	Ogromny Thornball
+ETC_20150317_000146	Ogromna Kłujkula
 ETC_20150317_000147	Woodspirit
 ETC_20150317_000148	Niebieski Woodspirit
 ETC_20150317_000149	Zielony Woodspirit
@@ -155,14 +155,14 @@ ETC_20150317_000154	Czerwony Woodman
 ETC_20150317_000155	Mroczny Glut
 ETC_20150317_000156	Pomimo tego, że wszystkie Gluty wyglądają podobnie, kazdy gatunek różni się substancją, z której powstał.
 ETC_20150317_000157	Rusrat
-ETC_20150317_000158	These guardians were placed in many tombs, starting with the Royal Mausoleum of Zachariel the Great, to stop intruders. Its name came from grave robbers who've encountered them.
+ETC_20150317_000158	Strażnicy ci zostali rozmieszczeni w wielu grobowcach aby powstrzymać intruzów. Ich nazwa wzięła się od hien cmentarnych, którzy na nich natrafili.
 ETC_20150317_000159	Madakia
-ETC_20150317_000160	The Madakia were created by court wizards to fend off intruders that were more dangerous than grave robbers.
+ETC_20150317_000160	Madakie zostały stworzone przez czarodziei aby odeprzeć intruzów groźniejszych od hien cmentarnych.
 ETC_20150317_000161	Wheelen
-ETC_20150317_000162	The Wheelen is one of many magical creations made to protect the sealed tombs that have no current overseer.
+ETC_20150317_000162	Wheelen jest jednym z wielu magicznych tworów stworzonych do obrony zapięczętowanych grobowców, którym brakowało nadzorcy.
 ETC_20150317_000163	Wheelen 3
 ETC_20150317_000164	Mauros
-ETC_20150317_000165	The stone cavalry of the Royal Mausoleum are magical creations made to withstand even the most heavily-armed of knights.
+ETC_20150317_000165	Kamienna kawaleria będąca magicznym stworem, mającym wytrzymać nawet najmocniej uzbrojonych rycerzy.
 ETC_20150317_000166	Pieczarkowca
 ETC_20150317_000167	Z nieznanych przyczyn, potwór ten wprost nienawidzi ludzi. Woli atakować ludzi, nie przejmując się czy przeżyje takie starcie, niż zająć się polowaniem na słabsze ofiary.
 ETC_20150317_000168	Trufflelia
@@ -171,15 +171,15 @@ ETC_20150317_000170	Bramble Ego
 ETC_20150317_000171	Willow
 ETC_20150317_000172	Willowna
 ETC_20150317_000173	Hanaming
-ETC_20150317_000174	Leaves fallen from a dead Hanaming wither rapidly.
-ETC_20150317_000175	Chupacabra
-ETC_20150317_000176	Their numbers grew after the Great Plant Cataclysm; now they tend to compete with humans for territory.
+ETC_20150317_000174	Liście opadające z martwego Hanaming bardzo szybko więdną.
+ETC_20150317_000175	Czupakabra
+ETC_20150317_000176	Ich populacja urosła po Wielkim Katakliźmie. Teraz rywalizują z ludźmi o terytorium.
 ETC_20150317_000177	Szara Czupakabra
 ETC_20150317_000178	Duża Szara Czupakabra
 ETC_20150317_000179	Czupakabry poruszają się bezgłośnie. Biorąc to pod uwagę, spotkanie z elitarną Czupacabrą może się skończyć bardzo źle.
 ETC_20150317_000180	Żółta Czupakabra
-ETC_20150317_000181	Popolion
-ETC_20150317_000182	Powiadają, że głos Popolionów kruszy butelki.
+ETC_20150317_000181	Popo-lew
+ETC_20150317_000182	Powiadają, że głos Popo-lwów może skruszyć szklaną butelkę.
 ETC_20150317_000183	Sauga
 ETC_20150317_000184	Saugas
 ETC_20150317_000185	Skorpion
@@ -444,8 +444,8 @@ ETC_20150317_000443	Upon transforming into a monster with a hardened wood body a
 ETC_20150317_000444	Cyst
 ETC_20150317_000445	Ammon
 ETC_20150317_000446	Existing since ancient times, Ammon has harmed countless people and monsters.
-ETC_20150317_000447	Operor
-ETC_20150317_000448	While it has maintained its original form, Operor has developed severely aggressive and violent behavior.
+ETC_20150317_000447	Zła Osa
+ETC_20150317_000448	Mimo zachowania oryginalnej formy, Zła Osa stała się okropnie złośliwa i gwałtowna.
 ETC_20150317_000449	Chafperor
 ETC_20150317_000450	A severely mutated bee and beetle hybrid with qualities of both, it operates in swarms.
 ETC_20150317_000451	Ravinelarva
@@ -1717,7 +1717,7 @@ ETC_20150317_001716	Crossbow
 ETC_20150317_001717	One-Handed Sword
 ETC_20150317_001718	{memo X}Wand
 ETC_20150317_001719	Blunt
-ETC_20150317_001720	Other
+ETC_20150317_001720	Inne
 ETC_20150317_001721	Spear
 ETC_20150317_001722	Wand
 ETC_20150317_001723	{nl} Do you want to add a socket?
@@ -1826,7 +1826,7 @@ ETC_20150317_001825	Increased Companions attack by {Value}
 ETC_20150317_001826	Increased Companions HP by {Value}
 ETC_20150317_001827	{memo X}Increased Companions defense by {Value}
 ETC_20150317_001828	{memo X}Increased Companions hit rate by {Value}
-ETC_20150317_001829	You do not have a Companion to summon.
+ETC_20150317_001829	Nie posiadasz towarzysza do przyzwania.
 ETC_20150317_001830	Please dismount your Companion first.
 ETC_20150317_001831	Standby
 ETC_20150317_001832	Active
@@ -1859,7 +1859,7 @@ ETC_20150317_001858	Sell to Shop
 ETC_20150317_001859	Cheat key
 ETC_20150317_001860	Trade
 ETC_20150317_001861	Change Equipment
-ETC_20150317_001862	Crafting
+ETC_20150317_001862	Tworzenie
 ETC_20150317_001863	Pocket
 ETC_20150317_001864	Package
 ETC_20150317_001865	Guild Request
@@ -1908,13 +1908,13 @@ ETC_20150317_001907	EXP
 ETC_20150317_001908	(Attack Resistance)
 ETC_20150317_001909	Requires a record in the Adventure Journal. Press the A key to update whilst sitting.
 ETC_20150317_001910	You can now use the [{Auto_1}] title.
-ETC_20150317_001911	Attributes
+ETC_20150317_001911	Atrybuty
 ETC_20150317_001912	{@st59} Click for more information {/}
-ETC_20150317_001913	The next skill level requires the same class advancement.
+ETC_20150317_001913	Kolejny poziom tego skilla wymaga rozwoju tej samej klasy.
 ETC_20150317_001914	Use a Skill Point to increase its skill level.
-ETC_20150317_001915	Equipment
-ETC_20150317_001916	Disabled
-ETC_20150317_001917	Enabled
+ETC_20150317_001915	Ekwipunek
+ETC_20150317_001916	Wyłączone
+ETC_20150317_001917	Włączone
 ETC_20150317_001918	Individual
 ETC_20150317_001919	Round Robin
 ETC_20150317_001920	Random
@@ -1984,16 +1984,16 @@ ETC_20150317_001983	Deselected
 ETC_20150317_001984	Do you want to use your points to increase the {Auto_1} ability?
 ETC_20150317_001985	Do you want to use your skill points to increase this ability?
 ETC_20150317_001986	Do you want to use your skill points to learn a new skill?
-ETC_20150317_001987	Available Skill Points
-ETC_20150317_001988	Category
-ETC_20150317_001989	Passive
-ETC_20150317_001990	Enhance Skill
-ETC_20150317_001991	Available
-ETC_20150317_001992	All
+ETC_20150317_001987	Dostępne punkty skilli
+ETC_20150317_001988	Kategoria
+ETC_20150317_001989	Pasywny
+ETC_20150317_001990	Ulepsz Skill
+ETC_20150317_001991	Dostępne
+ETC_20150317_001992	Wszystkie
 ETC_20150317_001993	Points
 ETC_20150317_001994	You do not have enough slots.
-ETC_20150317_001995	Quest List
-ETC_20150317_001996	Adventure Journal Updated
+ETC_20150317_001995	Lista Questów
+ETC_20150317_001996	Zaktualizowano Dziennik Przygody
 ETC_20150317_001997	{#000000} item is not recorded in the journal.
 ETC_20150317_001998	This monster was not recorded in the journal.
 ETC_20150317_001999	Lance Mastery
@@ -2660,9 +2660,9 @@ ETC_20150317_002659	{memo X}Wszyscy członkowie muszą się znaleźć na mapie {
 ETC_20150317_002660	Nie wszyscy członkowie drużyny są razem.
 ETC_20150317_002661	Members of party quest have been met. The quest will be available after a certain time.
 ETC_20150317_002662	has left.
-ETC_20150317_002663	Normal
-ETC_20150317_002664	Shout
-ETC_20150317_002665	Party
+ETC_20150317_002663	Normalny
+ETC_20150317_002664	Krzyk
+ETC_20150317_002665	Drużynowy
 ETC_20150317_002666	To {Who} and {Count} others
 ETC_20150317_002667	Chat Room List
 ETC_20150317_002668	This user does not exist.
@@ -2719,13 +2719,13 @@ ETC_20150317_002718	Penetrating Arrow
 ETC_20150317_002719	Explosive Arrow
 ETC_20150317_002720	[Craftable]
 ETC_20150317_002721	Stamina
-ETC_20150317_002722	Attack
-ETC_20150317_002723	Attacking Speed
-ETC_20150317_002724	Critical Rate
+ETC_20150317_002722	Atak
+ETC_20150317_002723	Szybkość Ataku
+ETC_20150317_002724	Szansa Krytyczna
 ETC_20150317_002725	Wytrzymałość
 ETC_20150317_002726	{memo X}Splash
-ETC_20150317_002727	Accuracy
-ETC_20150317_002728	Critical Resistance
+ETC_20150317_002727	Celność
+ETC_20150317_002728	Odporność Krytyczna
 ETC_20150317_002729	{memo X}Splash Defense
 ETC_20150317_002730	INT
 ETC_20150317_002731	SPR
@@ -2877,8 +2877,8 @@ ETC_20150317_002876	Adventure Ranking
 ETC_20150317_002877	Collection completed {Auto_1}
 ETC_20150317_002878	Contents
 ETC_20150317_002879	Set items
-ETC_20150317_002880	Acquired
-ETC_20150317_002881	Score earned
+ETC_20150317_002880	Zebrano
+ETC_20150317_002881	Wynik
 ETC_20150317_002882	Boss
 ETC_20150317_002883	Date
 ETC_20150317_002884	Click to go to the item page.
@@ -4216,9 +4216,9 @@ ETC_20150317_004215	{@st44}Next Class Rank Information
 ETC_20150317_004216	Current Job Information
 ETC_20150317_004217	{memo X}{@st43}Date :
 ETC_20150317_004218	{memo X}{@st43}Playtime :
-ETC_20150317_004219	{@st41} Shortcut
-ETC_20150317_004220	{@st41} Gesture
-ETC_20150317_004221	{@st41} Chat
+ETC_20150317_004219	{@st41} Skrót
+ETC_20150317_004220	{@st41} Gest
+ETC_20150317_004221	{@st41} Tekst
 ETC_20150317_004222	{@st41} Combo Configuration
 ETC_20150317_004223	{@st41} Battle Cry
 ETC_20150317_004224	{@st41b}Create{/}
@@ -4230,7 +4230,7 @@ ETC_20150317_004229	Cheat List
 ETC_20150317_004230	Run Script
 ETC_20150317_004231	Enter name
 ETC_20150317_004232	Please select at least one
-ETC_20150317_004233	{@st41} Gesture List
+ETC_20150317_004233	{@st41} Lista Gestów
 ETC_20150317_004234	 [Main] 
 ETC_20150317_004235	{@st55_b}{b} Reward(s) {/}
 ETC_20150317_004236	{@st55_c} Experience:
@@ -4238,8 +4238,8 @@ ETC_20150317_004237	Waiting for the other player to accept.
 ETC_20150317_004238	You cannot trade already equipped items.
 ETC_20150317_004239	You do not have enough funds.
 ETC_20150317_004240	{Auto_1}: Level {Auto_2} {Auto_3}
-ETC_20150317_004241	{@st49} Save
-ETC_20150317_004242	{@st49} Select
+ETC_20150317_004241	{@st49} Zapisz
+ETC_20150317_004242	{@st49} Wybierz
 ETC_20150317_004243	} Hello there
 ETC_20150317_004244	{memo X}{@st41b} Fold ??
 ETC_20150317_004245	{memo X}{@st41b} View details
@@ -4268,11 +4268,11 @@ ETC_20150317_004267	 key has been assigned to
 ETC_20150317_004268	 to your quick slot.
 ETC_20150317_004269	Space bar \
 ETC_20150317_004270	{@st41} Key to start a conversation {/}
-ETC_20150317_004271	{@st41} Movement {/}
-ETC_20150317_004272	{@st41} Attack{/}
-ETC_20150317_004273	{@st41} Jump {/}
-ETC_20150317_004274	{@st41} Diagonal Movement {/}
-ETC_20150317_004275	{@st41} = diagonal {/}
+ETC_20150317_004271	{@st41} Poruszanie się {/}
+ETC_20150317_004272	{@st41} Atakowanie{/}
+ETC_20150317_004273	{@st41} Skoki {/}
+ETC_20150317_004274	{@st41} Ruchy ukośne {/}
+ETC_20150317_004275	{@st41} = ukośnie {/}
 ETC_20150317_004276	{@st59} Even if a party member is far away, it won't disappear from the party list{/}
 ETC_20150317_004277	{@st59}If the state of quest proceeds is same with party, then share the quest{nl} This function will be activated when you check both character options. {/}
 ETC_20150317_004278	{@st59} Experience from killing monsters is shared between party members. {/}To enable this feature, all party members must activate it in the options. {/}
@@ -4712,11 +4712,11 @@ ETC_20150317_004711	{S20}{#050505} Attack:
 ETC_20150317_004712	{S20}{#050505} Defense:
 ETC_20150317_004713	You do not have enough silver.
 ETC_20150317_004714	This advancement quest has not been implemented yet.
-ETC_20150317_004715	Chat
+ETC_20150317_004715	Czat
 ETC_20150317_004716	{@st61} Normal Chat
 ETC_20150317_004717	And conversation
-ETC_20150317_004718	Normal Chat
-ETC_20150317_004719	Party Chat
+ETC_20150317_004718	Czat normalny
+ETC_20150317_004719	Czat drużynowy
 ETC_20150317_004720	Group
 ETC_20150317_004721	Invite to chat
 ETC_20150317_004722	System
@@ -5891,8 +5891,8 @@ ETC_20150317_005890	Description1
 ETC_20150317_005891	{memo X}Simple Description
 ETC_20150317_005892	{memo X}Detailed Description
 ETC_20150317_005893	{memo X}Additional description of the image
-ETC_20150317_005894	Basic Functions
-ETC_20150317_005895	Movement
+ETC_20150317_005894	Podstawowe funkcje
+ETC_20150317_005895	Poruszanie się
 ETC_20150317_005896	{memo X}            You can move by using the arrow keys.
 ETC_20150317_005897	Arrow Keys
 ETC_20150317_005898	{memo X} {img arrowkey_up 40 40} {img arrowkey_down 40 40} {img arrowkey_left 40 40} {img arrowkey_right 40 40} are used to move you character. 
@@ -7412,23 +7412,23 @@ ETC_20150317_007412	Normal attack in front
 ETC_20150317_007413	Give the experience of a certain percentage
 ETC_20150317_007414	%s% of the experience value cycle
 ETC_20150317_007415	Logout
-ETC_20150317_007416	Love
-ETC_20150317_007417	Victory
-ETC_20150317_007418	Best
-ETC_20150317_007419	Follow
-ETC_20150317_007420	Help
-ETC_20150317_007421	Hi
-ETC_20150317_007422	No
+ETC_20150317_007416	Miłość
+ETC_20150317_007417	Zwycięstwo
+ETC_20150317_007418	Kciuki
+ETC_20150317_007419	Chodź
+ETC_20150317_007420	Pomocy
+ETC_20150317_007421	Hej
+ETC_20150317_007422	Nie
 ETC_20150317_007423	Sorry
-ETC_20150317_007424	Thanks
-ETC_20150317_007425	Good
-ETC_20150317_007426	Greetings
-ETC_20150317_007427	Salute
-ETC_20150317_007428	Good Luck
-ETC_20150317_007429	Hearts
+ETC_20150317_007424	Dzięki
+ETC_20150317_007425	Dobrze
+ETC_20150317_007426	Powitanie
+ETC_20150317_007427	Salutowanie
+ETC_20150317_007428	Powodzenia
+ETC_20150317_007429	Cześć mała
 ETC_20150317_007430	Hadouken
-ETC_20150317_007431	Surprise
-ETC_20150317_007432	Sorrow
+ETC_20150317_007431	Zdziwko
+ETC_20150317_007432	Smutek
 ETC_20150317_007433	Red Tree Rumor
 ETC_20150317_007434	Defeat Giant Red Wood Goblin
 ETC_20150317_007435	According to the travelers who passed through the Starving Demon's Way a few days ago,
@@ -9405,7 +9405,7 @@ ETC_20150317_009405	{memo X}The spirit that is bounded to Merge*
 ETC_20150317_009406	Decoy Altar
 ETC_20150317_009407	{memo X}Milky Dust Stack
 ETC_20150317_009408	Stepping Stone
-ETC_20150317_009409	Tree Root Crystal
+ETC_20150317_009409	Kryształ Korzenny
 ETC_20150317_009410	{memo X}Purple Tree Forest Reeds
 ETC_20150317_009411	grass flower
 ETC_20150317_009412	{memo X}The container for the map
@@ -10014,7 +10014,7 @@ ETC_20150323_010015	Elementalist Advancement
 ETC_20150323_010016	Card Synthesis
 ETC_20150323_010017	Enter your personal greeting
 ETC_20150323_010018	{memo X}Visit Barrack
-ETC_20150323_010019	Start Game
+ETC_20150323_010019	Rozpocznij
 ETC_20150323_010020	User Buy-in Shop
 ETC_20150323_010021	Buff Shop
 ETC_20150323_010022	Crafter is still using the skill.
@@ -10649,7 +10649,7 @@ ETC_20150401_010650	{memo X}Glakuman that was attracted to the magical power is 
 ETC_20150401_010651	{memo X}The magic summoning crystals are passing the greater power to the monsters
 ETC_20150401_010652	{memo X}You cannot use this now.
 ETC_20150401_010653	{memo X}You cannot use the skill when you are in a battle
-ETC_20150401_010654	Shout
+ETC_20150401_010654	Krzyk
 ETC_20150401_010655	Warehouse Keeper
 ETC_20150401_010656	Guidance of Star
 ETC_20150401_010657	Protection of Star
@@ -11432,19 +11432,19 @@ ETC_20150428_011433	Recipe - Sage Necklace
 ETC_20150428_011434	Recipe - Superior Rune Bracelet
 ETC_20150428_011435	Recipe - Star Bracelet
 ETC_20150428_011436	FAQ : Loża{nl}1) Możesz zmienić nazwę swojej loży wchodząc w "Ustawienia loży". {nl}2) Możesz kupić nowy wygląd loży za iCoins wybierając "Zmień lożę".{nl}3) Będąc w loży, możesz wybrać Kanał, na który chcesz się zalogować.
-ETC_20150428_011437	FAQ : Character HP, SP, STA {nl}1) You can check your character's information on the upper left side of the screen. {nl}2) STA: This is stamina. When your STA is 0, you can only walk and cannot run anymore. {nl} STA is also used when learning certain attributes. {nl} STA can be recovered by destroying Tree Root Crystals or by using Stamina Pills. {nl} Stamina Pills can be purchased from shops, earned by completing quests or by defeating boss monsters.
-ETC_20150428_011438	FAQ : Character Level & Class Level{nl}1) You can check the info at the lower part of your screen. {nl}2) Character Level: this is the level of your character. {nl}3) Class Level: this is the level of the class you chose. {nl} You can advance to another class when your Class Level has reached 15. 
-ETC_20150428_011439	FAQ : Quick Slot{nl}1) You can add items and skills to the quick slot at the lower part of your screen. {nl}2) Skills are automatically added to the quick slot when you learn them. {nl}3) You can use up to 40 quick slots. {nl}4) Quick slots can be locked or unlocked. {nl}You cannot add or remove items or skills in the quick slot when it is locked.
-ETC_20150428_011440	FAQ : Changing Channels{nl}1) You can change channels by clicking on the channel button above the minimap. {nl}2) You can change channels in the Lodge before entering the world.
-ETC_20150428_011441	FAQ : Rest Mode{nl}1) Press the INSERT key to switch to Rest Mode. {nl}2) HP, SP, STA will be restored. {nl}3) You can light up a bonfire, craft items, enhance gems or combine cards in Rest Mode.{nl} You need "Firewood" to create a bonfire. {nl} HP, SP, STA is restored quicker when you use a bonfire.{nl}4) Other functions will be added in the near future.
-ETC_20150428_011442	{memo X}FAQ : Durability & Potential{nl}1) Durability : It will start to decrease a little bit when you play with the equipment on.{nl}    When the durability decreases under the certain level, the item's icon will be displayed on the right side of the quick slot.{nl}   When the durability completely diminishes, you won't be benefited from the effects of your equipment.{nl}2) Potential : It will decrease when you are trading an equipment item or enhance an item. The item with its Potential all depleted can't be traded or enhanced.
-ETC_20150428_011443	{memo X}FAQ : Enhancement{nl}1) Weapons and armors can be enhanced using the anvil item. {nl}2) You can buy anvils from the Tools Merchant in any town. {nl}3) Silver is required for enhancing items.{nl}4) The enhancement of weapons and armor have a 100% success rate till +5 and +3 respectively. The chance of failure after the next enhancement will increase.{nl} If an enhancement fails, your enhancement level will reset and the Potential of your item decreases.
-ETC_20150428_011444	FAQ : Attributes{nl}1) There are attributes that you can learn from the class specific Masters. {nl}2) You can learn different types of attributes depending on the class. {nl} For example, if you advance to Highlander, you can learn two-handed sword attributes from the Highlander Master and use two-handed swords. {nl}3) Masters who teach attributes are located all around the map.
-ETC_20150428_011445	FAQ : Charge Skills{nl}1) Charge Skills are triggered only when you press down the quick slot button of the skill. {nl}2) A Charge Skill is canceled when you are attacked while using it.
-ETC_20150428_011446	FAQ : System Menu{nl}1) You can change to "Joypad UI Mode" through the game settings when using a joypad. {nl}2) You can play using "Low-spec Mode" if your computer has low system requirements.
-ETC_20150428_011447	FAQ : Chatting{nl}1) Shout: Enter "/y" before your message to show your message to all the players in the game. {nl} However, the "Megaphone" item is required to do so. {nl}2) Party Chat: Enter "/p" before your message to chat with the party members in your party. {nl}Whisper: Enter "/w Team Name" before your message to talk privately with the player of that Team Name.
-ETC_20150428_011448	FAQ : Inventory Weight{nl}1) Shows the weight of the items you can carry. {nl}2) Weight increases by 5 when you increase your CON ability after you level up. {nl}3) When the items you carry are overweight, your character will walk regardless of the STA.
-ETC_20150428_011449	FAQ : Minimap, Zone Map, World Map{nl}1) Click on the +, - buttons on the minimap to zoom in and zoom out. {nl}2) Click on the M button on the minimap or press the M key to view the full map of the zone (Zone Map) you are in. {nl}3) Press the N key on your keyboard to view the entire World Map.
+ETC_20150428_011437	FAQ : HP, SP i STA postaci{nl}1) Możesz sprawdzić informacje o swojej postaci w lewym górnym rogu ekranu. {nl}2) STA: To stamina, czyli wytrzymałość. Kiedy STA spadnie do 0, nie będzie można dłużej biegać. {nl} STA jest też używane podczas uczenia się niektórych Atrybutów. {nl} STA można odnowić rozwalając Kryształy Korzenne lub połykając Pastylki Staminy. {nl} Pastylki Staminy można kupić w sklepie, dostać po ukończeniu Questów lub po pokonaniu Bossów.
+ETC_20150428_011438	FAQ : Level Postaci i Level Klasy{nl}1) Oba Levele możesz sprawdzić na samym dole ekranu. {nl}2) Level Postaci: to poziom doświadczenia twojej postaci. {nl}3) Level Klasy: to poziom rozwoju wybranej przez ciebie klasy. {nl} Możesz rozwinąć się na kolejną Klasę po osiągnięciu 15 Levelu Klasy. 
+ETC_20150428_011439	FAQ : Szybkie Sloty{nl}1) Możesz przeciągnąć przedmioty oraz skille na paski Szybkich Slotów w dolnej części ekranu. {nl}2) Skille są tam dodawane automatycznie po nauczeniu się ich. {nl}3) Możesz mieć aż 40 Szybkich Slotów. {nl}4) Szybkie Sloty można blokować albo odblokowywać. {nl}Podczas blokady nie można dodawać ani usuwać przedmiotów oraz skilli.
+ETC_20150428_011440	FAQ : Zmiana Kanału{nl}1) Możesz zmienić obecny kanał wybierając go z listy nad minimapą. {nl}2) Możesz wybrać kanał będąc w loży, zanim rozpoczniesz przygodę.
+ETC_20150428_011441	FAQ : Odpoczynek{nl}1) Wciśnij klawisz INSERT aby odpocząć. Twoja postać usiądzie na ziemi. {nl}2) HP, SP oraz STA zaczną się regenerować. {nl}3) Odpoczywając możesz rozpalić ognisko, tworzyć przedmioty, ulepszać gemy lub łączyć karty.{nl} Aby rozpalić ognisko potrzebujesz "Drewna na opał". {nl} HP, SP oraz STA regenerują się szybciej kiedy siedzisz w pobliżu ogniska.{nl}4) W przyszłości dodane zostaną dodatkowe funkcje podczas odpoczynku.
+ETC_20150428_011442	{memo X}FAQ : Wytrzymałość i Potencjał {nl}1) Wytrzymałość : Będzie powoli spadać podczas noszenia danego ekwipunku.{nl}    Kiedy wytrzymałość spadnie poniżej określonego poziomu, po prawej stronie Szybkich Slotów pojawi się ikonka danego ekwipunku.{nl}   Kiedy wytrzymałość spadnie do zera, przestaniesz odczuwać jakiekolwiek efekty tego ekwipunku.{nl}2) Potencjał : Zmniejsza się za każdym razem, gdy wymienisz lub ulepszysz ekwipunek. Przedmiotu, którego potencjał spadł do zera, nie można więcej wymieniać ani ulepszać.
+ETC_20150428_011443	{memo X}FAQ : Ulepszanie{nl}1) Broń oraz zbroje można ulepszać korzystając z kowadła. {nl}2) Kowadła możesz nabyć u sprzedawcy w każdym mieście. {nl}3) Do ulepszania przedmiotów potrzebne są Silver.{nl}4) Ulepszanie ma 100% szansę sukcesu do poziomu +5 dla broni i +3 dla zbroi. Szansa porażki za każdy kolejny poziom ulepszenia będzie wzrastać.{nl} Jeśli ulepszenie nie powiedzie się, poziom ulepszenia przedmiotu zostanie zresetowany i zmniejszy się jego potencjał.
+ETC_20150428_011444	FAQ : Atrybuty{nl}1) Atrybutów możesz się nauczyć od Mistrza odpowiedniego dla swojej Klasy. {nl}2) Każda klasa ma własnych zestaw atrybutów do nauki. {nl} Przykładowo, jeśli rozwiniesz się na Highlandera, będziesz mógł nauczyć się Atrybutu walki mieczami dwuręcznymi od Mistrza Highlanderów i dzięki temu używać mieczy dwuręcznych. {nl}3) Mistrzowie dla każdej klasy rozrzuceni są zazwyczaj po całej mapie.
+ETC_20150428_011445	FAQ : Ładowanie Skilli{nl}1) Skille zaczną być ładowane tylko po przytrzymaniu odpowiedniego dla nich klawisza Szybkiego Slotu. {nl}2) Ładowanie skilla będzie przerwane jeśli zostaniesz zaatakowany.
+ETC_20150428_011446	FAQ : Menu Systemowe{nl}1) Kiedy grasz na padzie, w menu możesz włączyć "Tryb UI Pada". {nl}2) Jeśli masz słaby komputer, możesz włączyć opcję "Najniższe wymagania".
+ETC_20150428_011447	FAQ : Czatowanie{nl}1) Krzyk: Wpisz "/y" przed wiadomością aby wykrzyczeć ją do wszystkich graczy w grze. {nl} Do takiego krzyku wymagany jest przedmiot "Megafon". {nl}2) Czas Drużynowy: Wpisz "/p" przed wiadomością aby napisać do członków drużyny. {nl}Szept: Wpisz "/w Nazwa_Drużyny" przed wiadomością aby porozmawiać z danym graczem prywatnie.
+ETC_20150428_011448	FAQ : Waga Inwentarza{nl}1) Pokazuje wagę przedmiotów, które nosisz ze sobą. {nl}2) Waga zwiększa się o 5 w każdym punktem statystyki CON po zdobyciu Levelu. {nl}3) Jeśli będziesz nieść więcej przedmiotów niż twoja waga, przestaniesz mieć możliwość biegania, niezależnie od stanu STA.
+ETC_20150428_011449	FAQ : Minimapa, Mapa Strefy, Mapa Świata{nl}1) Kliknij na guziki + i - na minimapie aby ją przybliżyć lub oddalić. {nl}2) Kliknij na guziku M na minimapie lub klawisz M na klawiaturze aby zobaczyć pełną mapę strefy, na której jesteś. {nl}3) Wciśnij klawisz N na klawiaturze aby zobaczyć mapę całego świata.
 ETC_20150428_011450	Press the CTRL key to turn Target Lock On/Off.
 ETC_20150428_011451	Hire as Helper
 ETC_20150428_011452	Dismiss Helper
@@ -14593,8 +14593,8 @@ ETC_20150918_014594	There isn't any usable equipment
 ETC_20150918_014595	Some field monsters were involved in battles so you couldn't summon them
 ETC_20150918_014596	Stealing succeeded!
 ETC_20150918_014597	Crafting items.
-ETC_20150918_014598	Secondary Physical Attack
-ETC_20150918_014599	Seconday Magical Attack
+ETC_20150918_014598	Drugi Atak Fizyczny
+ETC_20150918_014599	Drugi Atak Magiczny
 ETC_20150918_014600	Are you sure you want to block
 ETC_20150918_014601	You cannot 'Like' yet.
 ETC_20150918_014602	Friendly Duel Request
@@ -14604,11 +14604,11 @@ ETC_20150918_014605	The field boss in this region has been defeated.
 ETC_20150918_014606	You cannot participate PvP it the current map due to an error.
 ETC_20150918_014607	{Name} requested to join the party.
 ETC_20150918_014608	Do you want to join this party?
-ETC_20150918_014609	Round Robin
-ETC_20150918_014610	Random
-ETC_20150918_014611	Individual
-ETC_20150918_014612	Shared
-ETC_20150918_014613	Unshared
+ETC_20150918_014609	Po kolei
+ETC_20150918_014610	Losowo
+ETC_20150918_014611	Indywidualnie
+ETC_20150918_014612	Dzielone
+ETC_20150918_014613	Niedzielone
 ETC_20150918_014614	You have exceeded the number of times that you can participate in an instanced dungeon for today.
 ETC_20150918_014615	It is lower than the Instanced Dungeon limit level
 ETC_20150918_014616	Defeat Matsums that are rushing in!

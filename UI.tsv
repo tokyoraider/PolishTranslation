@@ -100,10 +100,10 @@ UI_20150317_000099	{@st59}Krzyk (/y tekst){/}
 UI_20150317_000100	{@st59}Drużynowy (/p tekst){/}
 UI_20150317_000101	{@st59}Szept (/w nazwa_drużyny tekst){/}
 UI_20150317_000102	{@st59}Dopasuj okno czatu{/}
-UI_20150317_000103	{@st43}{s22}Makro czatu{/}
-UI_20150317_000104	{@st43}Makro{/}
-UI_20150317_000105	{@st59b}Makro {nl} {@st59s} - Jak używać: {nl} 1. Przeciągnij ikonę gestu na jakikolwiek slot gestów na dole. {nl} 2. Napisz wybraną frazę i zapisz. {nl} 3. Użyj klawisza skrótu aby jednocześnie wypowiedzieć frazę i pokazać gest. {/}
-UI_20150317_000106	{@st59}Zamknik Makro{/}
+UI_20150317_000103	{@st43}{s22}Makra czatu{/}
+UI_20150317_000104	{@st43}Makra{/}
+UI_20150317_000105	{@st59b}Makra {nl} {@st59s} - Jak używać: {nl} 1. Przeciągnij ikonę gestu na jakikolwiek slot gestów na dole. {nl} 2. Napisz wybraną frazę i zapisz. {nl} 3. Użyj klawisza skrótu aby jednocześnie wypowiedzieć frazę i pokazać gest. {/}
+UI_20150317_000106	{@st59}Zamknij okno Makr{/}
 UI_20150317_000107	{@st41b}Zapisz {/}
 UI_20150317_000108	{@st59}Zapisz zmiany{/}
 UI_20150317_000109	{@st41b}Anuluj {/}
@@ -646,7 +646,7 @@ UI_20150317_000645	Zużyto około %s sekund
 UI_20150317_000646	{@st41}Stwórz
 UI_20150317_000647	{memo X}{@st43}Skille i Atrybuty{/}
 UI_20150317_000648	{memo X}{@st59}Zamknij Klasy i Skille{/}
-UI_20150317_000649	{@st59b}Klasy{nl}{@st59s}- Możesz nauczyć się nowych skilli rozwijając Krąg swojej Klasy. {nl} - Możesz wybrać spośród 3 dostępnych Klas do rozwoju pomiędzy twoim 1 i 2 poziomem rozwoju. {nl} - Możesz rozwijać swoją obecną Klasę maksymalnie 3 razy. {nl} - Po rozwoju na wyższą Klasę, nie możesz się cofnąć do poprzedniej. {nl} - Musisz zużyć wszystkie wolne punkty Skilli aby móc się rozwinąć. {nl} - Możesz wybrać tę samą Klasę.{nl}{@st59b}Skills{nl}{@st59s} - Możesz zwiększyć rangę danego Skilla maksymalnie do 5 poziomu.{nl} - Atrybuty nauczone od Mistrzów możesz zobaczyć pod swoimi Skillami. {/}
+UI_20150317_000649	{@st59b}Klasy{nl}{@st59s}- Możesz nauczyć się nowych skilli rozwijając Krąg swojej Klasy. {nl} - Możesz wybrać spośród 3 dostępnych Klas do rozwoju pomiędzy twoim 1 i 2 poziomem rozwoju. {nl} - Możesz rozwijać swoją obecną Klasę maksymalnie 3 razy. {nl} - Po rozwoju na wyższą Klasę, nie możesz się cofnąć do poprzedniej. {nl} - Musisz zużyć wszystkie wolne punkty Skilli aby móc się rozwinąć. {nl} - Możesz wybrać tę samą Klasę.{nl}{@st59b}Skille{nl}{@st59s} - Możesz zwiększyć rangę danego Skilla maksymalnie do 5 poziomu.{nl} - Atrybuty nauczone od Mistrzów możesz zobaczyć pod swoimi Skillami. {/}
 UI_20150317_000650	{memo X}{@st41b}Zastosuj{/}
 UI_20150317_000651	{@st59}Zastosuj{/}
 UI_20150317_000652	Cleric
@@ -891,12 +891,12 @@ UI_20150317_000890	{@st41}Monster list{/}
 UI_20150317_000891	{@st41}Performance Manager{/}
 UI_20150317_000892	{ol}Select Quest
 UI_20150317_000893	Enter quest name to search
-UI_20150317_000894	{ol}Select map
+UI_20150317_000894	{ol}Wybierz mapę
 UI_20150317_000895	Enter map name to search
 UI_20150317_000896	{@st42}Current map{/}
-UI_20150317_000897	{ol}Map name
-UI_20150317_000898	{ol}Coordinates
-UI_20150317_000899	{@st41}Change quest rewards{/}
+UI_20150317_000897	{ol}Nazwa mapy
+UI_20150317_000898	{ol}Współrzędne
+UI_20150317_000899	{@st41}Zmień nagrody za Quest{/}
 UI_20150317_000900	{@st59}Enter quest to search{/}
 UI_20150317_000901	{@st59}Enter the item to search for{/}
 UI_20150317_000902	{@st42}EXP
@@ -923,41 +923,41 @@ UI_20150317_000922	{memo X}{S18}Usuń skrypt
 UI_20150317_000923	{memo X}{S18}Argument tekstowy
 UI_20150317_000924	{memo X}{s18}string 1 argument
 UI_20150317_000925	{memo X}{s18}string 2 argument
-UI_20150317_000926	{memo X}{s18}Max skill level
-UI_20150317_000927	{memo X}{@st59}Remove script type box{/}
-UI_20150317_000928	{memo X}{@st59}Remove script argument{/}
+UI_20150317_000926	{memo X}{s18}Max poziom skilla
+UI_20150317_000927	{memo X}{@st59}Usuń pole wpisywania skryptu{/}
+UI_20150317_000928	{memo X}{@st59}Usuń argument skryptu{/}
 UI_20150317_000929	{memo X}{@st59}Max skill level{/}
-UI_20150317_000930	{memo X}{@st59}Save Property{/}
-UI_20150317_000931	{memo X}{@st41}Save Property{/}
+UI_20150317_000930	{memo X}{@st59}Zapisz właściwość{/}
+UI_20150317_000931	{memo X}{@st41}Zapisz właściwość{/}
 UI_20150317_000932	{@st44}Lista UI{/}
 UI_20150317_000933	{ds}Lista dodatków
-UI_20150317_000934	{ds}Fixed frame list
-UI_20150317_000935	{@st42}UI list{/}
-UI_20150317_000936	{@st59}show UI List{/}
-UI_20150317_000937	{@st42}Adjust location{/}
-UI_20150317_000938	{@st59}Adjust location{/}
-UI_20150317_000939	{@st42}Edit Property{/}
-UI_20150317_000940	{@st59}Edit property{/}
-UI_20150317_000941	{@st42}Save{/}
-UI_20150317_000942	{@st59}Save{/}
-UI_20150317_000943	{@st44}Edit UI properties{/}
-UI_20150317_000944	{@St59}Character Selection{/}
-UI_20150317_000945	{@St59}Logout{/}
-UI_20150317_000946	{@St59}Settings{/}
-UI_20150317_000947	{@St59}Quit{/}
+UI_20150317_000934	{ds}Lista stałych ramek
+UI_20150317_000935	{@st42}Lista UI{/}
+UI_20150317_000936	{@st59}Pokaż listę UI{/}
+UI_20150317_000937	{@st42}Dopasuj pozycję{/}
+UI_20150317_000938	{@st59}Dopasuj pozycję{/}
+UI_20150317_000939	{@st42}Edytuj właściwość{/}
+UI_20150317_000940	{@st59}Edytuj właściwość{/}
+UI_20150317_000941	{@st42}Zapisz{/}
+UI_20150317_000942	{@st59}Zapisz{/}
+UI_20150317_000943	{@st44}Edytuj właściwości UI{/}
+UI_20150317_000944	{@St59}Wybór postaci{/}
+UI_20150317_000945	{@St59}Wyloguj{/}
+UI_20150317_000946	{@St59}Ustawienia{/}
+UI_20150317_000947	{@St59}Wyjdź z gry{/}
 UI_20150317_000948	{@st43}Ustawienia loży{/}
 UI_20150317_000949	{@st59}Zamknij ustawienia loży{/}
 UI_20150317_000950	{memo X}{@St42_b}{s18}{#f5c384}Nazwa Drużyny{/}
 UI_20150317_000951	{@st59}Wpisz nazwę Drużyny {/}
 UI_20150317_000952	{memo X}{@st59}Zapisz nazwę Drużyny{/}
 UI_20150317_000953	Provisional Delete
-UI_20150317_000954	{@St59}Close Decorate Lodge{/}
-UI_20150317_000955	{@St43}Barrack Decorating{/}
-UI_20150317_000956	{@St41b}Theme{/}
-UI_20150317_000957	{@St41b}Item Arrangement{/}
-UI_20150317_000958	{@St41b}Name
-UI_20150317_000959	{@St41b}Price
-UI_20150317_000960	{@St41b}State
+UI_20150317_000954	{@St59}Zamknij okno dekoracji loży{/}
+UI_20150317_000955	{@St43}Dekoracja baraku{/}
+UI_20150317_000956	{@St41b}Motyw{/}
+UI_20150317_000957	{@St41b}Ułożenie przedmiotów{/}
+UI_20150317_000958	{@St41b}Nazwa
+UI_20150317_000959	{@St41b}Cena
+UI_20150317_000960	{@St41b}Stan
 UI_20150317_000961	{@St44}Nowa postać{/}
 UI_20150317_000962	{@St41b}{s22}Wybierz Klasę postaci{/}
 UI_20150317_000963	{@St41b}Powrót{/}
