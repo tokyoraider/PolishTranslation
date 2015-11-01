@@ -5300,15 +5300,15 @@ ITEM_20150714_005299	An orb that holds the aura
 ITEM_20150714_005300	{memo X}A beed that can collect the aura. It can be taken out and put depending on use. 
 ITEM_20150714_005301	Wisdom Guiding Stone 
 ITEM_20150714_005302	A mysterious jewel that can lead to the correct path.
-ITEM_20150714_005303	A truth eye Fragment 
+ITEM_20150714_005303	Eyes of Truth Fragment 
 ITEM_20150714_005304	{memo X}Truth Eye's broken pieces. It is only available to collect all fragments. 
-ITEM_20150714_005305	Truth Eyes 
+ITEM_20150714_005305	Eyes of Truth
 ITEM_20150714_005306	{memo X}allows you to see the reality of the soul. Let's try to insubstantial monster. 
 ITEM_20150714_005307	Soul Crystal 
 ITEM_20150714_005308	{memo X}wandering pulling force can pull the soul. It is necessary to find a condensed wanted. 
 ITEM_20150714_005309	Left-click to use 
 ITEM_20150714_005310	{memo X}A memo written by Hones about a teacher's said. You can know how to release the device installed at Ritnis catacombs. Cab read 
-ITEM_20150714_005311	Contract Space Magic Stone 
+ITEM_20150714_005311	Spatial Magic Gem Fragment of Contract
 ITEM_20150714_005312	{memo X}A space magic stone fragment of the broken contract. In order to work correctly, it seems to need the restore operation. 
 ITEM_20150714_005313	{memo X}If you collect the more space magic stones, you can go to a hidden place of the teacher. 
 ITEM_20150714_005314	{memo X}A magic stone used to move the Teleport. You can go a hidden place of the teacher. 
@@ -5321,7 +5321,7 @@ ITEM_20150714_005320	{memo X}You can feel Valius' magic
 ITEM_20150714_005321	A seal can suppress the evil spirits
 ITEM_20150714_005322	{memo X} 
 ITEM_20150714_005323	Magic scroll capable of absorbing weak Chemical frost. 
-ITEM_20150714_005324	Proof of Silt 
+ITEM_20150714_005324	Symbol of Silt
 ITEM_20150714_005325	{memo X}The monster who was the sign of a weak armor. Movement speed increased slightly. 
 ITEM_20150714_005326	{memo X}Krio maenseo Costas petrified by asking the detector. I have trouble. 
 ITEM_20150714_005327	Monster Stimulant 
@@ -5343,8 +5343,8 @@ ITEM_20150714_005342	Velas Grass
 ITEM_20150714_005343	{memo X}be cared wins this thing strong full-flavored me up monsters. Apply jityigyeo to leave things be and the amount of monsters keep my nest. 
 ITEM_20150714_005344	Damaged Artifacts 
 ITEM_20150714_005345	{memo X}Digested, severely Damaged Artifacts. They can only barely be recognized by their shape. 
-ITEM_20150714_005346	Silt Decision 
-ITEM_20150714_005347	{memo X}decisions that are found in the petrified monster prolonged exposure to frost. When processing occurs on the Stone Frost immunity for a while. 
+ITEM_20150714_005346	Silt Crystal 
+ITEM_20150714_005347	{memo X}Crystal found in the petrified monster prolonged exposure to frost. When processing occurs on the Stone Frost immunity for a while. 
 ITEM_20150714_005348	Horsepower Catalyst 
 ITEM_20150714_005349	{memo X}horsepower catalyst that can be obtained from monsters exposed to steam. It can be reacted in the vapor horsepower. 
 ITEM_20150714_005350	{memo X}Pas-de-warp order to give you the future master. Sanctuary is available only when you experience problems do not mean excessive hoarding. 
@@ -6190,8 +6190,8 @@ ITEM_20150918_006189	Tyla Plate Gauntlets
 ITEM_20150918_006190	Tyla Plate Greaves
 ITEM_20150918_006191	Tyla Plate Leggings
 ITEM_20150918_006192	Tyla Plate Armor 
-ITEM_20150918_006193	
-ITEM_20150918_006194	
+ITEM_20150918_006193	Miao Hair Ornament
+ITEM_20150918_006194	An elaborate ornament that is the identifying marker of the Wugushis. Its distinctive feature is the bullhorn design in the center.
 ITEM_20150918_006195	Fletcher Knife
 ITEM_20150918_006196	Instantly restores 190 HP and additionally restores a total of 266 HP every 2 seconds over 15 seconds.{nl}Right-click to use. Cooldown of 20 seconds.
 ITEM_20150918_006197	Instantly restores 320 HP and additionally restores a total of 448 HP every 2 seconds over 15 seconds.{nl}Right-click to use. Cooldown of 25 seconds.
@@ -6577,7 +6577,7 @@ ITEM_20150918_006576	Jar of fire obtained from Mothstems. Mothstems treasure the
 ITEM_20150918_006577	Blue Fisherman Bone. It too small to hold.
 ITEM_20150918_006578	Feels terrible
 ITEM_20150918_006579	The beak of a Harpeia. It is very sharp.
-ITEM_20150918_006580	
+ITEM_20150918_006580	When you're in a pinch, it helps you easily foil your foes. Pow!
 ITEM_20150918_006581	A rope with a noose attached to it. Used for throwing and tying up enemies.
 ITEM_20150918_006582	Letter of introduction that Sapper Master wrote to the Highlander Master
 ITEM_20150918_006583	Confirmation from the Highlander Master that you accomplished all of the necessary requirements for advancement.
@@ -6672,7 +6672,7 @@ ITEM_20150918_006671	A Zolem's Magic Stone needed to lure a Unicorn.
 ITEM_20150918_006672	A trophy taken from a defeated Unicorn. Let's take it to the Fedimian Army Officer.
 ITEM_20150918_006673	A cork stopper that was sealing the oil barrel.
 ITEM_20150918_006674	Tools used for brewing
-ITEM_20150918_006675	
+ITEM_20150918_006675	A claw of a Rambear that lurks in the petrified city of Verkti Square.
 ITEM_20150918_006676	A water bottle engraved with a password to find the grave robber Benjaminas hidden among the guards of the Petrified City of Verkti Square.
 ITEM_20150918_006677	A map that looks ancient. It looks like it will crumble.
 ITEM_20150918_006678	A fragrant stone powder obtained from monsters in the petrified city of Verkti Square.
@@ -6768,14 +6768,14 @@ ITEM_20150918_006767	A magic stone used to move the Teleport. You can go a hidde
 ITEM_20150918_006768	A powder contained the spirit of holy purification gave by Vita. You can purify the evil spirit to use it.
 ITEM_20150918_006769	Remains tied to the contract with the demons. Not free even in death.
 ITEM_20150918_006770	The skeleton that is tied to the contract of the demons. It can't be free even after the death.
-ITEM_20150918_006771	
-ITEM_20150918_006772	
-ITEM_20150918_006773	
+ITEM_20150918_006771	A seal that has the power to supress all the magical power that Valius created in his lifetime. 
+ITEM_20150918_006772	Can be exchanged for a Velheider at the Companion Shop
+ITEM_20150918_006773	Can be exchanged for a hawk at the Companion Shop.
 ITEM_20150918_006774	The seal of Legwyn Family. It broke long time ago so only parts of it are remaining.
-ITEM_20150918_006775	
-ITEM_20150918_006776	
+ITEM_20150918_006775	An unknown kingdom's military flag. The flag is too damaged to make out which army's it is.
+ITEM_20150918_006776	A relic of one who died with such strong regret that you can still feel it. It is unknown what kind of person the owner was, or when and how that person died.
 ITEM_20150918_006777	The monster who was the sign of a weak armor. Movement speed increased slightly.
-ITEM_20150918_006778	
+ITEM_20150918_006778	The nuclear core of the petrification detector that Cryomaster Costas asked you to retrieve.
 ITEM_20150918_006779	Military supplies stolen from the Kingdom Army's guards by Dico Doguldan.
 ITEM_20150918_006780	Rubbing of the petrified book on Ruklys Street
 ITEM_20150918_006781	Supply covered with monster's odor. It smells terrible.
