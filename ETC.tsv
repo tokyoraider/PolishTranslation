@@ -152,8 +152,8 @@ ETC_20150317_000151	Błogosławieństwem jest fakt, że Woodman nie może się p
 ETC_20150317_000152	Niebieski Woodman
 ETC_20150317_000153	Szary Woodman
 ETC_20150317_000154	Czerwony Woodman
-ETC_20150317_000155	Dark Slime
-ETC_20150317_000156	Although slimes are similar in appearance, they vary in species due to differences between the materials they originated from.
+ETC_20150317_000155	Mroczny Glut
+ETC_20150317_000156	Pomimo tego, że wszystkie Gluty wyglądają podobnie, kazdy gatunek różni się substancją, z której powstał.
 ETC_20150317_000157	Rusrat
 ETC_20150317_000158	These guardians were placed in many tombs, starting with the Royal Mausoleum of Zachariel the Great, to stop intruders. Its name came from grave robbers who've encountered them.
 ETC_20150317_000159	Madakia
@@ -163,8 +163,8 @@ ETC_20150317_000162	The Wheelen is one of many magical creations made to protect
 ETC_20150317_000163	Wheelen 3
 ETC_20150317_000164	Mauros
 ETC_20150317_000165	The stone cavalry of the Royal Mausoleum are magical creations made to withstand even the most heavily-armed of knights.
-ETC_20150317_000166	Truffle
-ETC_20150317_000167	For reasons unknown, this monster holds an extreme hatred towards humans. It prefers to attack humans rather than hunt more suitable prey, or even care about its own survival.
+ETC_20150317_000166	Pieczarkowca
+ETC_20150317_000167	Z nieznanych przyczyn, potwór ten wprost nienawidzi ludzi. Woli atakować ludzi, nie przejmując się czy przeżyje takie starcie, niż zająć się polowaniem na słabsze ofiary.
 ETC_20150317_000168	Trufflelia
 ETC_20150317_000169	Bramble
 ETC_20150317_000170	Bramble Ego
@@ -629,15 +629,15 @@ ETC_20150317_000628	Hogma Fighter
 ETC_20150317_000629	While they look like guardsmen, these Hogmas have extensive battle experience.
 ETC_20150317_000630	Hogma Scout
 ETC_20150317_000631	Compared to an average Hogmas, they are very stronger, but their intelligence is lower.
-ETC_20150317_000632	Crane
-ETC_20150317_000633	Alpaca
-ETC_20150317_000634	Snowman
+ETC_20150317_000632	Żuraw
+ETC_20150317_000633	Alpaka
+ETC_20150317_000634	Bałwan
 ETC_20150317_000635	Hydra
 ETC_20150317_000636	Clymen
 ETC_20150317_000637	Reaverpede
 ETC_20150317_000638	Colimencia
 ETC_20150317_000639	Jack O'Lantern
-ETC_20150317_000640	Mothstem
+ETC_20150317_000640	Ćmisko
 ETC_20150317_000641	Harpeia
 ETC_20150317_000642	Gazing Golem
 ETC_20150317_000643	Moldyhorn
@@ -715,11 +715,11 @@ ETC_20150317_000714	Black Shaman Doll
 ETC_20150317_000715	Yellow Shaman Doll
 ETC_20150317_000716	Wizard Shaman Doll
 ETC_20150317_000717	When the demons captured the Mage Tower, this doll was greatly affected. In particular, it instinctively hates magic users.
-ETC_20150317_000718	{memo X}Large Slime
+ETC_20150317_000718	{memo X}Duży Glut
 ETC_20150317_000719	The slime is an organism in the demon realm. Its population exploded after the time when the plant Geant, especially around the Mage Tower.
-ETC_20150317_000720	Green Large Slime
-ETC_20150317_000721	Yellow Large Slime
-ETC_20150317_000722	Black Large Slime
+ETC_20150317_000720	Zielony Duży Glut
+ETC_20150317_000721	Żółty Duży Glut
+ETC_20150317_000722	Czarny Duży Glut
 ETC_20150317_000723	Fire Golem
 ETC_20150317_000724	Warmed Up Gazing Golem
 ETC_20150317_000725	Noble Tomb Lord
@@ -866,17 +866,17 @@ ETC_20150317_000865	Corylus
 ETC_20150317_000866	The Corylus is a mutant hybrid between plants, animals and minerals.
 ETC_20150317_000867	Red Luxodon
 ETC_20150317_000868	The reduction in size isn't the only thing that got better after this beast mutated.
-ETC_20150317_000869	Beeteros
-ETC_20150317_000870	It is simple and effective for Beeteros to camouflage. Please do not touch the swaying leaf as it can stab you.
-ETC_20150317_000871	Mentiwood
-ETC_20150317_000872	A mutated mantis. It has gotten stronger and has developed the ability to camouflage.
+ETC_20150317_000869	Bulbazaur
+ETC_20150317_000870	Bulbazaur potrafi bardzo zgrabnie zlać się z otoczeniem. Nie dotykaj kiwającego się liścia, bo może cię dźgnąć.
+ETC_20150317_000871	Gejowska Modliszka
+ETC_20150317_000872	Zmutowana na różowo modliszka. Przybrała na sile i zdobyła wątpliwą zdolność kamuflarzu.
 ETC_20150317_000873	Egnome
 ETC_20150317_000874	Egnomes carry a stern look. The more stern it looks, the more powerful it is.
 ETC_20150317_000875	Beetow
 ETC_20150317_000876	After mutating, Beetow has developed an unreasonable and venomous nature. Its aggression has also become more significant.
 ETC_20150317_000877	I'll have a big sickle with their bodies to pound sister.
-ETC_20150317_000878	Carcashu
-ETC_20150317_000879	Carcashu is a fungus. Its toxins are strong, but there are parts of it that can be eaten.
+ETC_20150317_000878	Pleśniak
+ETC_20150317_000879	Pleśniak jest grzybem. Zawiera mocne toksyny, ale jego części są jadalne.
 ETC_20150317_000880	Black Maize
 ETC_20150317_000881	The Black Maize looks deceptively delicious, eating one will certainly cause addiction.
 ETC_20150317_000882	Merregina
@@ -11123,11 +11123,11 @@ ETC_20150414_011124	{memo X}The greatest enhancement item(under development)
 ETC_20150414_011125	{memo X}The person who obtained the amount of silvers
 ETC_20150414_011126	{memo X}Male, Female Proportion(under development)
 ETC_20150414_011127	Talk to the summoned protector of Zachariel to activate the altar!
-ETC_20150414_011128	Activating the Altar
+ETC_20150414_011128	Aktywowanie kapliczki
 ETC_20150414_011129	{memo X}Activate the altar through the summoned subordinate of Zachariel.
-ETC_20150414_011130	The altar has been activated!
-ETC_20150414_011131	Crystal removed!
-ETC_20150414_011132	Burying the Pot
+ETC_20150414_011130	Aktywowano kapliczkę!
+ETC_20150414_011131	Usunięto kryształ!
+ETC_20150414_011132	Zakopywanie garnka
 ETC_20150414_011133	Defeat the monster near the magic circle!
 ETC_20150414_011134	Obtained meat!{nl}Put it in the dryer to make jerky!
 ETC_20150414_011135	{memo X}Installed pot. Monsters are flocking near the pot!
@@ -11212,13 +11212,13 @@ ETC_20150428_011213	Night Maiden
 ETC_20150428_011214	Demon Lord Nuaele
 ETC_20150428_011215	Poisonous Insect
 ETC_20150428_011216	{memo X}Explosion Trap
-ETC_20150428_011217	Fire Trap
-ETC_20150428_011218	Poison Trap
-ETC_20150428_011219	{memo X}Movement Restriction Trap
-ETC_20150428_011220	Pillar Trap
-ETC_20150428_011221	Reduced Movement Trap
-ETC_20150428_011222	Reduced Attack Trap
-ETC_20150428_011223	Restrained Attack Trap
+ETC_20150428_011217	Ognista pułapka
+ETC_20150428_011218	Trująca pułapka
+ETC_20150428_011219	{memo X}Pułapka unieruchamiająca
+ETC_20150428_011220	Pułapka kolumnowa
+ETC_20150428_011221	Pułapka krępująca ruch
+ETC_20150428_011222	Pułapka zmniejszająca atak
+ETC_20150428_011223	Pułapka powstrzymująca atak
 ETC_20150428_011224	Reduced Defense Trap
 ETC_20150428_011225	Taumas
 ETC_20150428_011226	Brown Rodelin
@@ -11431,7 +11431,7 @@ ETC_20150428_011432	Recipe - Superior Key Pendant
 ETC_20150428_011433	Recipe - Sage Necklace
 ETC_20150428_011434	Recipe - Superior Rune Bracelet
 ETC_20150428_011435	Recipe - Star Bracelet
-ETC_20150428_011436	FAQ : Lodge{nl}1) You can change the name of your lodge by clicking "Lodge Settings". {nl}2) You can buy Lodge skins using iCoins by clicking "Change Lodge".{nl}3) You select your desired channel from the Lodge.
+ETC_20150428_011436	FAQ : Loża{nl}1) Możesz zmienić nazwę swojej loży wchodząc w "Ustawienia loży". {nl}2) Możesz kupić nowy wygląd loży za iCoins wybierając "Zmień lożę".{nl}3) Będąc w loży, możesz wybrać Kanał, na który chcesz się zalogować.
 ETC_20150428_011437	FAQ : Character HP, SP, STA {nl}1) You can check your character's information on the upper left side of the screen. {nl}2) STA: This is stamina. When your STA is 0, you can only walk and cannot run anymore. {nl} STA is also used when learning certain attributes. {nl} STA can be recovered by destroying Tree Root Crystals or by using Stamina Pills. {nl} Stamina Pills can be purchased from shops, earned by completing quests or by defeating boss monsters.
 ETC_20150428_011438	FAQ : Character Level & Class Level{nl}1) You can check the info at the lower part of your screen. {nl}2) Character Level: this is the level of your character. {nl}3) Class Level: this is the level of the class you chose. {nl} You can advance to another class when your Class Level has reached 15. 
 ETC_20150428_011439	FAQ : Quick Slot{nl}1) You can add items and skills to the quick slot at the lower part of your screen. {nl}2) Skills are automatically added to the quick slot when you learn them. {nl}3) You can use up to 40 quick slots. {nl}4) Quick slots can be locked or unlocked. {nl}You cannot add or remove items or skills in the quick slot when it is locked.
